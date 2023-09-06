@@ -1,0 +1,71 @@
+    1  time
+    2  date
+    3  lear
+    4  clear
+    5  sudo mv eclipse-inst /opt/
+    6  sudo mv eclipse-installer /opt/
+    7  sudo chown -R $USER:$USER /opt/eclipse-installer/
+    8  sudo chown -R $USER:$USER /opt/eclipse-installer
+    9  java --dersion
+   10  java --version
+   11  sudo ./eclipse-inst 
+   12  nano eclipse.destop
+   13  ./smartgit.sh
+   14  pwd
+   15  mcedit hello.sh
+   16  ls
+   17  ./hello.sh
+   18  chmod u+x hello.sh
+   19  ./hello.sh
+   20  mcedit if.sh
+   21  ls
+   22  chmod u+x if.sh
+   23  ./if.sh
+   24  mcedit if.sh
+   25  ./if.sh
+   26  ls
+   27  cd _history/
+   28  ls
+   29  history > 2_06092023.txt
+   30  cd ..
+   31  test -help
+   32  test --help
+   33  man test
+   34  mcedit if.sh
+   35  ls
+   36  ./if.sh
+   37  mcedit if.sh
+   38  nano if.sh
+   39  mcedit if.sh
+   40  nano if.sh
+   41  ./if.sh
+   42  nano if.sh
+   43  ./if.sh
+   44  nano if.sh
+   45  mcedit if.sh
+   46  ./if.sh
+   47  mcedit if.sh
+   48  sudo apt install neovim
+   49  pwd
+   50  code
+   51  ls
+   52  code if.sh
+   53  code
+   54  vs
+   55  ls\
+   56  ls
+   57  nano myscript.sh
+   58  ./myscript.sh
+   59  chmod +x myscript.sh
+   60  ./myscript.sh
+   61  nano myscript.sh
+   62  ./myscript.sh
+   63  ls
+   64  $files=$(ls)
+   65  files=$(ls)
+   66  echo $files
+   67  env
+   68  ls
+   69  cd _history/
+   70  ls
+   71  history > 3_06092023
