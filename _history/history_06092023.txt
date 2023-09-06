@@ -1,0 +1,41 @@
+    1  time
+    2  date
+    3  lear
+    4  clear
+    5  sudo mv eclipse-inst /opt/
+    6  sudo mv eclipse-installer /opt/
+    7  sudo chown -R $USER:$USER /opt/eclipse-installer/
+    8  sudo chown -R $USER:$USER /opt/eclipse-installer
+    9  java --dersion
+   10  java --version
+   11  sudo ./eclipse-inst 
+   12  nano eclipse.destop
+   13  sudo apt install mc
+   14  cat /home/hpsidor/Desktop/.bash_history > terminal_history
+   15  cat /home/hpsidor/.bash_history > terminal_history
+   16  history > history_for_print.txt
+   17  pwd
+   18  history > history_06092023.txt
+   19  nano
+   20  mcedit
+   21  ls
+   22  vim --version
+   23  clear
+   24  ls -a
+   25  ls
+   26  cd Documents/
+   27  ls
+   28  ls -a
+   29  mkdir DEV
+   30  cd DEV
+   31  mkdir BASH
+   32* 
+   33  git
+   34  mkdir _history
+   35  ls
+   36  sudo apt update
+   37  sudo apt upgrade
+   38  wget https://www.syntevo.com/downloads/smartgit/smartgit-22_1_3.deb
+   39  sudo apt install ./smartgit-22_1_3.deb
+   40  sudo apt install smartgit
+   41  history > history_06092023.txt

@@ -1,0 +1,14 @@
+    1  time
+    2  date
+    3  lear
+    4  clear
+    5  sudo mv eclipse-inst /opt/
+    6  sudo mv eclipse-installer /opt/
+    7  sudo chown -R $USER:$USER /opt/eclipse-installer/
+    8  sudo chown -R $USER:$USER /opt/eclipse-installer
+    9  java --dersion
+   10  java --version
+   11  sudo ./eclipse-inst 
+   12  nano eclipse.destop
+   13  ./smartgit.sh
+   14  history > history06092023.txt
