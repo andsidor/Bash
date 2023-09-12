@@ -1,0 +1,271 @@
+    1  time
+    2  date
+    3  lear
+    4  clear
+    5  sudo mv eclipse-inst /opt/
+    6  sudo mv eclipse-installer /opt/
+    7  sudo chown -R $USER:$USER /opt/eclipse-installer/
+    8  sudo chown -R $USER:$USER /opt/eclipse-installer
+    9  java --dersion
+   10  java --version
+   11  sudo ./eclipse-inst 
+   12  nano eclipse.destop
+   13  ./smartgit.sh
+   14  history > history06092023.txt
+   15  history > history_1_06092023.txt
+   16  ./if.sh
+   17  ./if.sh
+   18  ./if.sh
+   19  ./if.sh
+   20  ./if.sh
+   21  pwd
+   22  mcedit hello.sh
+   23  ls
+   24  ./hello.sh
+   25  chmod u+x hello.sh
+   26  ./hello.sh
+   27  mcedit if.sh
+   28  ls
+   29  chmod u+x if.sh
+   30  ./if.sh
+   31  mcedit if.sh
+   32  ./if.sh
+   33  ls
+   34  cd _history/
+   35  ls
+   36  history > 2_06092023.txt
+   37  cd ..
+   38  test -help
+   39  test --help
+   40  man test
+   41  mcedit if.sh
+   42  ls
+   43  ./if.sh
+   44  mcedit if.sh
+   45  nano if.sh
+   46  mcedit if.sh
+   47  nano if.sh
+   48  ./if.sh
+   49  nano if.sh
+   50  ./if.sh
+   51  nano if.sh
+   52  mcedit if.sh
+   53  ./if.sh
+   54  mcedit if.sh
+   55  sudo apt install neovim
+   56  pwd
+   57  code
+   58  ls
+   59  code if.sh
+   60  code
+   61  vs
+   62  ls\
+   63  ls
+   64  nano myscript.sh
+   65  ./myscript.sh
+   66  chmod +x myscript.sh
+   67  ./myscript.sh
+   68  nano myscript.sh
+   69  ./myscript.sh
+   70  ls
+   71  $files=$(ls)
+   72  files=$(ls)
+   73  echo $files
+   74  env
+   75  ls
+   76  cd _history/
+   77  ls
+   78  history > 3_06092023
+   79  apt get update
+   80  apt-get update
+   81  apt-get upgrade
+   82  sudo apt-get upgrade
+   83  sudo apt-get update
+   84  sudo apt-get installgit
+   85  sudo apt-get install git
+   86  git
+   87  cd ..
+   88  git status
+   89  history > 4_06092023
+   90  clear
+   91  exit
+   92  sudo apt install mc
+   93  cat /home/hpsidor/Desktop/.bash_history > terminal_history
+   94  cat /home/hpsidor/.bash_history > terminal_history
+   95  history > history_for_print.txt
+   96  pwd
+   97  history > history_06092023.txt
+   98  nano
+   99  mcedit
+  100  ls
+  101  vim --version
+  102  clear
+  103  ls -a
+  104  ls
+  105  cd Documents/
+  106  ls
+  107  ls -a
+  108  mkdir DEV
+  109  cd DEV
+  110  mkdir BASH
+  111  git
+  112  mkdir _history
+  113  ls
+  114  sudo apt update
+  115  sudo apt upgrade
+  116  wget https://www.syntevo.com/downloads/smartgit/smartgit-22_1_3.deb
+  117  sudo apt install ./smartgit-22_1_3.deb
+  118  sudo apt install smartgit
+  119  history > history_06092023.txt
+  120  git --version
+  121  ls
+  122  nano myscript.sh 
+  123  cp myscript.sh basic_math.sh
+  124  ls
+  125  nano basic_math.sh 
+  126  ./basic_math.sh 
+  127  nano basic_math.sh 
+  128  ./basic_math.sh 
+  129  nano basic_math.sh 
+  130  ./basic_math.sh 
+  131  nano basic_math.sh 
+  132  ./basic_math.sh 
+  133  nano basic_math.sh 
+  134  ./basic_math.sh 
+  135  nano basic_math.sh 
+  136  ./basic_math.sh 
+  137  nano basic_math.sh 
+  138  ./basic_math.sh 
+  139  nano basic_math.sh 
+  140  ./basic_math.sh 
+  141  nano basic_math.sh 
+  142  ./basic_math.sh 
+  143  nano basic_math.sh 
+  144  ./basic_math.sh 
+  145  nano basic_math.sh 
+  146  cp basic_math.sh condition.sh
+  147  nano condition.sh 
+  148  cp basic_math.sh condition.sh
+  149  nano condition.sh 
+  150  ./basic_math.sh 
+  151  nano condition.sh 
+  152  cp condition.sh condition1.sh
+  153  nano condition1.sh 
+  154  ./condition1.sh 
+  155  nano condition1.sh 
+  156  which htop
+  157  nano condition1.sh 
+  158  cp condition1.sh condition2.sh
+  159  nano condition2.sh
+  160  ./condition2.sh
+  161  htop
+  162  ./condition2.sh
+  163  nano condition2.sh
+  164  ./condition2.sh
+  165  nano condition2.sh
+  166  cp condition2.sh sript_to_install_app
+  167  ls -a
+  168  nano sript_to_install_app 
+  169  ./sript_to_install_app 
+  170  nano sript_to_install_app 
+  171  ./sript_to_install_app 
+  172  ls
+  173  man test
+  174  cd _history/
+  175  history > 1_07092023.txt
+  176  ls
+  177  cd ..
+  178  git status
+  179  git add .
+  180  git status
+  181  git commit -m "New condtion scripts"
+  182  git status
+  183  git remote add origin https://github.com/andsidor/Bash.git
+  184  git remote -c
+  185  git remote -v
+  186  git push origin main
+  187  cd _history/
+  188  history > 2_07092023.txt
+  189  cd ..
+  190  git status
+  191  git add .
+  192  git commit -m "History file"
+  193  git remote -v
+  194  git push origin main
+  195  exit
+  196  ls --help
+  197  exir
+  198  exit
+  199  ls
+  200  cp if.sh zapisz_do_pliku.sh
+  201  nano zapisz_do_pliku.sh
+  202  ./zapisz_do_pliku.sh
+  203  ls
+  204  cat 1.txt
+  205  ./zapisz_do_pliku.sh
+  206  nano zapisz_do_pliku.sh
+  207  ./zapisz_do_pliku.sh
+  208  ls
+  209  pws
+  210  pwd
+  211  ./zapisz_do_pliku.sh
+  212  nano zapisz_do_pliku.sh
+  213  ./zapisz_do_pliku.sh
+  214  nano zapisz_do_pliku.sh
+  215  ./zapisz_do_pliku.sh
+  216  nano zapisz_do_pliku.sh
+  217  ./zapisz_do_pliku.sh
+  218  LS
+  219  ls
+  220  ls -a
+  221  pwd
+  222  ls -a
+  223  nano zapisz_do_pliku.sh
+  224  ls -a
+  225  ./zapisz_do_pliku.sh
+  226  ls -a
+  227  ls -l
+  228  nano zapisz_do_pliku.sh
+  229  ./zapisz_do_pliku.sh
+  230  nano zapisz_do_pliku.sh
+  231  ./zapisz_do_pliku.sh
+  232  ls -l
+  233  cat komplet.txt 
+  234  clear
+  235  exit
+  236  git status
+  237  cd Bash/
+  238  git status
+  239  exit
+  240  lsusb
+  241  lsusb -t
+  242  lspci
+  243  lspci -t
+  244  sudo lspci -t
+  245  sudo sudo lspci -t
+  246  sudo lshw
+  247  sudo lshw -html
+  248  sudo lshw -html > hw.html
+  249  ls
+  250  sudo lshw -short
+  251  lscpu
+  252  lsblik
+  253  lsblk
+  254  pwd
+  255  ls
+  256  ls Documents/
+  257  cd Dev
+  258  cd DE
+  259  cd DEV
+  260  ls
+  261  cd Documents/
+  262  ls
+  263  cd DEV/
+  264  ls
+  265  cd BASH/
+  266  ls
+  267  cd Bash/
+  268  ls
+  269  cd _history/
+  270  ls
+  271  history > 1_10902023
