@@ -1,0 +1,1221 @@
+proc_filesystems (5) - supported filesystems
+proc_pid_map_files (5) - memory-mapped files
+proc_profile (5)     - kernel profiling
+7z (1)               - 7-Zip file archiver with a high compression ratio
+7za (1)              - 7-Zip file archiver with a high compression ratio
+7zr (1)              - 7-Zip file archiver with a high compression ratio
+FILE (3type)         - input/output stream
+[ (1)                - check file types and compare values
+__fbufsize (3)       - interfaces to stdio FILE structure
+__flbf (3)           - interfaces to stdio FILE structure
+__fpending (3)       - interfaces to stdio FILE structure
+__freadable (3)      - interfaces to stdio FILE structure
+__freading (3)       - interfaces to stdio FILE structure
+__fsetlocking (3)    - interfaces to stdio FILE structure
+__fwritable (3)      - interfaces to stdio FILE structure
+__fwriting (3)       - interfaces to stdio FILE structure
+_flushlbf (3)        - interfaces to stdio FILE structure
+_llseek (2)          - reposition read/write file offset
+aa-exec (1)          - confine a program with the specified AppArmor profile
+aa-remove-unknown (8) - remove unknown AppArmor profiles
+aa-teardown (8)      - unload all AppArmor profiles
+access (2)           - check user's permissions for a file
+access.conf (5)      - the login access control table file
+acct (5)             - process accounting file
+addmntent (3)        - get filesystem descriptor file entry
+addr2line (1)        - convert addresses or symbol+offset into file names and line numbers
+adduser.conf (5)     - configuration file for adduser (8) and addgroup (8)
+aio_fsync (3)        - asynchronous file synchronization
+Algorithm::Diff (3pm) - Compute `intelligent' differences between two files / lists
+Algorithm::DiffOld (3pm) - Compute `intelligent' differences between two files / lists but use the old (<=0.59) interface.
+anacrontab (5)       - configuration file for anacron
+aplaymidi (1)        - play Standard MIDI Files
+apparmor.d (5)       - syntax of security profiles for AppArmor.
+apparmor.vim (5)     - vim syntax highlighting file for AppArmor profiles
+apparmor_parser (8)  - loads AppArmor profiles into the kernel
+apparmor_xattrs (7)  - AppArmor profile xattr(7) matching
+apport-bug (1)       - file a bug report using Apport, or update an existing report
+apport-collect (1)   - file a bug report using Apport, or update an existing report
+apport-unpack (1)    - extract the fields of a problem report to separate files
+apt-ftparchive (1)   - Utility to generate index files
+apt-sortpkgs (1)     - Utility to sort package index files
+apt.conf (5)         - Configuration file for APT
+apt_auth.conf (5)    - Login configuration file for APT sources and proxies
+apt_preferences (5)  - Preference control file for APT
+arecordmidi (1)      - record Standard MIDI Files
+arm_fadvise (2)      - predeclare an access pattern for file data
+arm_fadvise64_64 (2) - predeclare an access pattern for file data
+arm_sync_file_range (2) - sync a file segment with disk
+aspell-autobuildhash (8) - Autobuilding aspell hash files for some dicts
+avahi-daemon.conf (5) - avahi-daemon configuration file
+avahi.hosts (5)      - avahi-daemon static host name file
+avahi.service (5)    - avahi-daemon static service file
+basename (1)         - strip directory and suffix from filenames
+blkcnt_t (3type)     - file block counts
+blksize_t (3type)    - file block sizes
+btrfs (5)            - topics about the BTRFS filesystem (mount options, supported file attributes and other)
+btrfs (8)            - a toolbox to manage btrfs filesystems
+btrfs-balance (8)    - balance block groups on a btrfs filesystem
+btrfs-check (8)      - check or repair a btrfs filesystem
+btrfs-convert (8)    - convert from ext2/3/4 or reiserfs filesystem to btrfs in-place
+btrfs-device (8)     - manage devices of btrfs filesystems
+btrfs-filesystem (8) - command group that primarily does work on the whole filesystems
+btrfs-image (8)      - create/restore an image of the filesystem
+btrfs-property (8)   - get/set/list properties for given filesystem object
+btrfs-qgroup (8)     - control the quota group of a btrfs filesystem
+btrfs-quota (8)      - control the global quota status of a btrfs filesystem
+btrfs-rescue (8)     - recover a damaged btrfs filesystem
+btrfs-restore (8)    - try to restore files from a damaged filesystem image
+btrfs-scrub (8)      - scrub btrfs filesystem, verify block checksums
+btrfsck (8)          - check or repair a btrfs filesystem
+btrfsslower-bpfcc (8) - Trace slow btrfs file operations, with per-event details.
+btrfstune (8)        - tune various filesystem parameters
+bunzip2 (1)          - a block-sorting file compressor, v1.0.8
+bup (1)              - Backup program using rolling checksums and git file formats
+bup-cat-file (1)     - extract archive content (low-level)
+bup-damage (1)       - randomly destroy blocks of a file
+bup-drecurse (1)     - recursively list files in your filesystem
+bup-fuse (1)         - mount a bup repository as a filesystem
+bup-index (1)        - print and/or update the bup filesystem index
+bup-join (1)         - concatenate files from a bup repository
+bup-midx (1)         - create a multi-index (f[V].midxf[R]) file from severalf[V].idxf[R] files
+bup-restore (1)      - extract files from a backup set
+bup-split (1)        - save individual files to bup backup sets
+bzcat (1)            - decompresses files to stdout
+bzcmp (1)            - compare bzip2 compressed files
+bzdiff (1)           - compare bzip2 compressed files
+bzegrep (1)          - search possibly bzip2 compressed files for a regular expression
+bzexe (1)            - compress executable files in place
+bzfgrep (1)          - search possibly bzip2 compressed files for a regular expression
+bzgrep (1)           - search possibly bzip2 compressed files for a regular expression
+bzip2 (1)            - a block-sorting file compressor, v1.0.8
+bzip2recover (1)     - recovers data from damaged bzip2 files
+bzless (1)           - file perusal filter for crt viewing of bzip2 compressed text
+bzmore (1)           - file perusal filter for crt viewing of bzip2 compressed text
+c_rehash (1ssl)      - Create symbolic links to files named by the hash values
+cache_check (8)      - validates cache metadata on a device or file.
+cache_dump (8)       - dump cache metadata from device or file to standard output.
+cache_repair (8)     - repair cache binary metadata from device/file to device/file.
+cache_restore (8)    - restore cache metadata file to device or file.
+canonicalize_file_name (3) - return the canonicalized absolute pathname
+capability.conf (5)  - configuration file for the pam_cap module
+cat (1)              - concatenate files and print on the standard output
+catdoc (1)           - reads MS-Word file and puts its content as plain text on standard output
+catppt (1)           - reads MS-PowerPoint file and puts its content on standard output
+cd-create-profile (1) - Color Manager Profile Creation Tool
+cd-fix-profile (1)   - Color Manager Testing Tool
+chacl (1)            - change the access control list of a file or directory
+charmap (5)          - character set description file
+chattr (1)           - change file attributes on a Linux file system
+chcon (1)            - change file security context
+chmod (1)            - change file mode bits
+chmod (2)            - change permissions of a file
+chown (1)            - change file owner and group
+chown (2)            - change ownership of a file
+chown32 (2)          - change ownership of a file
+cifsdd (8)           - convert and copy a file over SMB
+ciptool (1)          - Bluetooth Common ISDN Access Profile (CIP)
+cksum (1)            - compute and verify file checksums
+classes.conf (5)     - class configuration file for cups
+client.conf (5)      - client configuration file for cups (deprecated on macos)
+close (2)            - close a file descriptor
+close_range (2)      - close all file descriptors in a given range
+cmp (1)              - compare two files byte by byte
+codepage (1)         - extract a codepage from an MSDOS codepage file
+colrm (1)            - remove columns from a file
+comm (1)             - compare two sorted files line by line
+config (5ssl)        - OpenSSL CONF library configuration files
+console-setup (5)    - configuration file for setupcon
+copy_file_range (2)  - Copy a range of data from one file to another
+core (5)             - core dump file
+cp (1)               - copy files and directories
+cpgr (8)             - copy with locking the given file to the password or group file
+cpio (1)             - copy files to and from archives
+cppw (8)             - copy with locking the given file to the password or group file
+creat (2)            - open and possibly create a file
+crontab (1)          - maintain crontab files for individual users (Vixie Cron)
+cryfs (1)            - cryptographic filesystem for the cloud
+cryptsetup-fvault2Dump (8) - dump the header information of a FVAULT2 (FileVault2 compatible) device
+crypttab (5)         - static information about encrypted filesystems
+csplit (1)           - split a file into sections determined by context lines
+cups-browsed.conf (5) - server configuration file for cups-browsed
+cups-files.conf (5)  - file and directory configuration file for cups
+cups-genppdupdate (8) - update CUPS+Gutenprint PPD files
+cups-snmp.conf (5)   - snmp configuration file for cups (deprecated)
+cupsd-logs (5)       - cupsd log files (access_log, error_log, and page_log)
+cupsd.conf (5)       - server configuration file for cups
+cupsfilter (8)       - convert a file to another format using cups filters (deprecated)
+cupstestppd (1)      - test conformance of ppd files (deprecated)
+cut (1)              - remove sections from each line of files
+cvtenc (1)           - file encoding converter
+cvtsudoers (1)       - convert between sudoers file formats
+dd (1)               - convert and copy a file
+deb-buildinfo (5)    - Debian build information file format
+deb-changelog (5)    - dpkg source packages' changelog file format
+deb-changes (5)      - Debian upload changes control file format
+deb-conffiles (5)    - package conffiles
+deb-control (5)      - Debian binary package control file format
+deb-extra-override (5) - Debian archive extra override file
+deb-md5sums (5)      - package MD5 file digests
+deb-origin (5)       - Vendor-specific information files
+deb-override (5)     - Debian archive override file
+deb-shlibs (5)       - Debian shared library information file
+deb-src-control (5)  - Debian source package template control file format
+deb-src-files (5)    - Debian distribute files format
+deb-src-rules (5)    - Debian source package rules file
+deb-src-symbols (5)  - Debian's extended shared library template file
+deb-symbols (5)      - Debian's extended shared library information file
+debugfs (8)          - ext2/ext3/ext4 file system debugger
+debugfs.reiserfs (8) - The debugging tool for the ReiserFS filesystem.
+debuginfod-client-config (7) - debuginfod client environment variables, cache control files and etc.
+debugreiserfs (8)    - The debugging tool for the ReiserFS filesystem.
+deluser.conf (5)     - configuration file fordeluser(8) and delgroup(8).
+depmod (8)           - Generate modules.dep and map files.
+desktop-file-edit (1) - Installation and edition of desktop files
+desktop-file-install (1) - Installation and edition of desktop files
+desktop-file-validate (1) - Validate desktop entry files
+desktoptojson (8)    - Converts a .desktop file to a .json file.
+df (1)               - report file system space usage
+dh_installxmlcatalogs (1) - install and register XML catalog files
+dhcpcd.conf (5)      - dhcpcd configuration file
+diff (1)             - compare files line by line
+diff3 (1)            - compare three files line by line
+dir_colors (5)       - configuration file for dircolors(1)
+dirfd (3)            - get directory stream file descriptor
+dirname (1)          - strip last component from file name
+dirtop-bpfcc (8)     - File reads and writes by directory. Top for directories.
+dnssec-trust-anchors.d (5) - DNSSEC trust anchor configuration files
+dosfsck (8)          - check and repair MS-DOS FAT filesystems
+dosfslabel (8)       - set or get MS-DOS filesystem label or volume ID
+dpkg-distaddfile (1) - add entries to debian/files
+dpkg-divert (1)      - override a package's version of a file
+dpkg-genbuildinfo (1) - generate Debian .buildinfo files
+dpkg-genchanges (1)  - generate Debian .changes files
+dpkg-gencontrol (1)  - generate Debian control files
+dpkg-gensymbols (1)  - generate symbols files (shared library dependency information)
+dpkg-mergechangelogs (1) - 3-way merge of debian/changelog files
+dpkg-parsechangelog (1) - parse Debian changelog files
+dpkg-scanpackages (1) - create Packages index files
+dpkg-scansources (1) - create Sources index files
+dpkg-statoverride (1) - override ownership and mode of files
+dpkg.cfg (5)         - dpkg configuration file
+Dpkg::BuildProfiles (3perl) - handle build profiles
+Dpkg::Checksums (3perl) - generate and manipulate file checksums
+Dpkg::Compression::FileHandle (3perl) - class dealing transparently with file compression
+Dpkg::Conf (3perl)   - parse dpkg configuration files
+Dpkg::Control::Info (3perl) - parse files like debian/control
+Dpkg::Control::Tests (3perl) - parse files like debian/tests/control
+Dpkg::Dist::Files (3perl) - handle built artifacts to distribute
+Dpkg::File (3perl)   - file handling
+Dpkg::Lock (3perl)   - file locking support
+Dpkg::Shlibs::Symbol (3perl) - represent an object file symbol
+Dpkg::Shlibs::SymbolFile (3perl) - represent a symbols file
+Dpkg::Source::BinaryFiles (3perl) - manipulate debian/source/include-binaries files
+Dpkg::Source::Format (3perl) - manipulate debian/source/format files
+Dpkg::Source::Patch (3perl) - represent a patch file
+dsc (5)              - Debian source package control file format
+du (1)               - estimate file space usage
+dumpe2fs (8)         - dump ext2/ext3/ext4 file system information
+dup (2)              - duplicate a file descriptor
+dup2 (2)             - duplicate a file descriptor
+dup3 (2)             - duplicate a file descriptor
+dvipdf (1)           - Convert TeX DVI file to PDF using ghostscript and dvips
+e2fsck (8)           - check a Linux ext2/ext3/ext4 file system
+e2fsck.conf (5)      - Configuration file for e2fsck
+e2image (8)          - Save critical ext2/ext3/ext4 file system metadata to a file
+e2label (8)          - Change the label on an ext2/ext3/ext4 file system
+e2mmpstatus (8)      - Check MMP status of an ext4 file system
+e2scrub (8)          - check the contents of a mounted ext[234] file system
+e2scrub_all (8)      - check all mounted ext[234] file systems for errors.
+e2undo (8)           - Replay an undo log for an ext2/ext3/ext4 file system
+e4crypt (8)          - ext4 file system encryption utility
+e4defrag (8)         - online defragmenter for ext4 file system
+eaccess (3)          - check effective user's permissions for a file
+editrc (5edit)       - configuration file for editline library
+efibootdump (8)      - dump a boot entries from a variable or a file
+elf (5)              - format of Executable and Linking Format (ELF) files
+elfedit (1)          - update ELF header and program property of ELF files
+encguess (1)         - guess character encodings of files
+endgrent (3)         - get group file entry
+endmntent (3)        - get filesystem descriptor file entry
+endpwent (3)         - get password file entry
+endspent (3)         - get shadow password file entry
+endttyent (3)        - get ttys file entry
+endutent (3)         - access utmp file entries
+endutxent (3)        - access utmp file entries
+environment (5)      - the environment variables config files
+EOF (3const)         - end of file or error indicator
+epoll_create (2)     - open an epoll file descriptor
+epoll_create1 (2)    - open an epoll file descriptor
+epoll_ctl (2)        - control interface for an epoll file descriptor
+epoll_pwait (2)      - wait for an I/O event on an epoll file descriptor
+epoll_pwait2 (2)     - wait for an I/O event on an epoll file descriptor
+epoll_wait (2)       - wait for an I/O event on an epoll file descriptor
+era_check (8)        - validate era metadata on device or file.
+era_dump (8)         - dump era metadata from device or file to standard output.
+era_restore (8)      - restore era metadata file to device or file.
+erofs (5)            - the Enhanced Read-Only File System
+euidaccess (3)       - check effective user's permissions for a file
+eventfd (2)          - create a file descriptor for event notification
+eventfd2 (2)         - create a file descriptor for event notification
+eventfd_read (3)     - create a file descriptor for event notification
+eventfd_write (3)    - create a file descriptor for event notification
+exec (3)             - execute a file
+execl (3)            - execute a file
+execle (3)           - execute a file
+execlp (3)           - execute a file
+execv (3)            - execute a file
+execveat (2)         - execute program relative to a directory file descriptor
+execvp (3)           - execute a file
+execvpe (3)          - execute a file
+ext2 (5)             - the second extended file system
+ext3 (5)             - the third extended file system
+ext4 (5)             - the fourth extended file system
+ext4slower-bpfcc (8) - Trace slow ext4 file operations, with per-event details.
+faccessat (2)        - check user's permissions for a file
+faccessat2 (2)       - check user's permissions for a file
+fadvise64 (2)        - predeclare an access pattern for file data
+fadvise64_64 (2)     - predeclare an access pattern for file data
+faillock (8)         - Tool for displaying and modifying the authentication failure record files
+faillock.conf (5)    - pam_faillock configuration file
+faillog (5)          - login failure logging file
+faked (1)            - daemon that remembers fake ownership/permissions of files manipulated by fakeroot processes.
+faked-sysv (1)       - daemon that remembers fake ownership/permissions of files manipulated by fakeroot processes.
+faked-tcp (1)        - daemon that remembers fake ownership/permissions of files manipulated by fakeroot processes.
+fakeroot (1)         - run a command in an environment faking root privileges for file manipulation
+fakeroot-sysv (1)    - run a command in an environment faking root privileges for file manipulation
+fakeroot-tcp (1)     - run a command in an environment faking root privileges for file manipulation
+fallocate (1)        - preallocate or deallocate space to a file
+fallocate (2)        - manipulate file space
+fanotify (7)         - monitoring filesystem events
+fanotify_mark (2)    - add, remove, or modify an fanotify mark on a filesystem object
+fatlabel (8)         - set or get MS-DOS filesystem label or volume ID
+fc-cache (1)         - build font information cache files
+fc-cat (1)           - read font information cache files
+fc-conflist (1)      - list the configuration files processed by Fontconfig
+fc-query (1)         - query font files
+fc-scan (1)          - scan font files or directories
+fc-validate (1)      - validate font files
+fchmod (2)           - change permissions of a file
+fchmodat (2)         - change permissions of a file
+fchown (2)           - change ownership of a file
+fchown32 (2)         - change ownership of a file
+fchownat (2)         - change ownership of a file
+fcntl (2)            - manipulate file descriptor
+fcntl64 (2)          - manipulate file descriptor
+fdatasync (2)        - synchronize a file's in-core state with storage device
+fexecve (3)          - execute program specified via file descriptor
+fgetgrent (3)        - get group file entry
+fgetgrent_r (3)      - get group file entry reentrantly
+fgetpwent (3)        - get password file entry
+fgetpwent_r (3)      - get passwd file entry reentrantly
+fgetspent (3)        - get shadow password file entry
+fgetspent_r (3)      - get shadow password file entry
+fgetwc (3)           - read a wide character from a FILE stream
+fgetws (3)           - read a wide-character string from a FILE stream
+fifo (7)             - first-in first-out special file, named pipe
+file (1)             - determine file type
+file-hierarchy (7)   - File system hierarchy overview
+pc (5)               - pkg-config file format
+pkgconf-personality (5) - pkgconf cross-compile personality file format
+file2brl (1)         - Translate an xml or a text file into an embosser-ready braille file
+File::BaseDir (3pm)  - Use the Freedesktop.org base directory specification
+File::DesktopEntry (3pm) - Object to handle .desktop files
+File::FcntlLock (3pm) - File locking with fcntl(2)
+File::FcntlLock::Inline (3pm) - File locking with fcntl(2)
+File::FcntlLock::Pure (3pm) - File locking with fcntl(2)
+File::FcntlLock::XS (3pm) - File locking with fcntl(2)
+File::IconTheme (3pm) - Find icon directories
+File::Listing (3pm)  - Parse directory listing
+File::MimeInfo (3pm) - Determine file type from the file name
+File::MimeInfo::Applications (3pm) - Find programs to open a file by mimetype
+File::MimeInfo::Cookbook (3pm) - various code snippets
+File::MimeInfo::Magic (3pm) - Determine file type with magic
+File::MimeInfo::Rox (3pm) - Open files by mimetype "Rox style"
+File::UserDirs (3pm) - Find extra media and documents directories
+filefrag (8)         - report on file fragmentation
+filegone-bpfcc (8)   - Trace why file gone (deleted or renamed). Uses Linux eBPF/bcc.
+filelife-bpfcc (8)   - Trace the lifespan of short-lived files. Uses Linux eBPF/bcc.
+fileno (3)           - obtain file descriptor of a stdio stream
+fileno_unlocked (3)  - nonlocking stdio functions
+fileslower-bpfcc (8) - Trace slow synchronous file reads and writes.
+filesystems (5)      - Linux filesystem types: ext, ext2, ext3, ext4, hpfs, iso9660, JFS, minix, msdos, ncpfs nfs, ntfs, proc, Reiserfs, smb, sysv, umsdos, vfat, XFS, xiafs
+filetop-bpfcc (8)    - File reads and writes by filename and process. Top for files.
+filter (7)           - cups file conversion filter interface
+fincore (1)          - count pages of file contents in core
+find (1)             - search for files in a directory hierarchy
+findfs (8)           - find a filesystem by label or UUID
+findmnt (8)          - find a filesystem
+flock (2)            - apply or remove an advisory lock on an open file
+flockfile (3)        - lock FILE for stdio
+fnmatch (3)          - match filename or pathname
+Font::AFM (3pm)      - Interface to Adobe Font Metrics files
+fonts-conf (5)       - Font configuration files
+fpathconf (3)        - get configuration values for files
+fputwc (3)           - write a wide character to a FILE stream
+fputws (3)           - write a wide-character string to a FILE stream
+fs (5)               - Linux filesystem types: ext, ext2, ext3, ext4, hpfs, iso9660, JFS, minix, msdos, ncpfs nfs, ntfs, proc, Reiserfs, smb, sysv, umsdos, vfat, XFS, xiafs
+fsadm (8)            - utility to resize or check filesystem on a device
+fscanf (3)           - input FILE format conversion
+fsck (8)             - check and repair a Linux filesystem
+fsck.cramfs (8)      - fsck compressed ROM file system
+fsck.ext2 (8)        - check a Linux ext2/ext3/ext4 file system
+fsck.ext3 (8)        - check a Linux ext2/ext3/ext4 file system
+fsck.ext4 (8)        - check a Linux ext2/ext3/ext4 file system
+fsck.fat (8)         - check and repair MS-DOS FAT filesystems
+fsck.minix (8)       - check consistency of Minix filesystem
+fsck.msdos (8)       - check and repair MS-DOS FAT filesystems
+fsck.reiserfs (8)    - The checking tool for the ReiserFS filesystem.
+fsck.vfat (8)        - check and repair MS-DOS FAT filesystems
+fseeko (3)           - seek to or report file position
+fsfreeze (8)         - suspend access to a filesystem (Ext3/4, ReiserFS, JFS, XFS)
+fstab (5)            - static information about the filesystems
+fstat (2)            - get file status
+fstat64 (2)          - get file status
+fstatat (2)          - get file status
+fstatat64 (2)        - get file status
+fstatfs (2)          - get filesystem statistics
+fstatfs64 (2)        - get filesystem statistics
+fstatvfs (3)         - get filesystem statistics
+fstrim (8)           - discard unused blocks on a mounted filesystem
+fsync (2)            - synchronize a file's in-core state with storage device
+ftello (3)           - seek to or report file position
+ftp (1)              - Internet file transfer program
+ftruncate (2)        - truncate a file to a specified length
+ftruncate64 (2)      - truncate a file to a specified length
+ftrylockfile (3)     - lock FILE for stdio
+fts (3)              - traverse a file hierarchy
+fts_children (3)     - traverse a file hierarchy
+fts_close (3)        - traverse a file hierarchy
+fts_open (3)         - traverse a file hierarchy
+fts_read (3)         - traverse a file hierarchy
+fts_set (3)          - traverse a file hierarchy
+ftw (3)              - file tree walk
+funlockfile (3)      - lock FILE for stdio
+fuse (4)             - Filesystem in Userspace (FUSE) device
+fuser (1)            - identify processes using files or sockets
+fusermount (1)       - mount and unmount FUSE filesystems
+fusermount3 (1)      - mount and unmount FUSE filesystems
+futimens (3)         - change file timestamps with nanosecond precision
+futimes (3)          - change file timestamps
+futimesat (2)        - change timestamps of a file relative to a directory file descriptor
+fwide (3)            - set and determine the orientation of a FILE stream
+gai.conf (5)         - getaddrinfo(3) configuration file
+gcore (1)            - Generate core files for running processes
+gcov-dump (1)        - offline gcda and gcno profile dump tool
+gcov-dump-13 (1)     - offline gcda and gcno profile dump tool
+gcov-tool (1)        - offline gcda profile processing tool
+gcov-tool-13 (1)     - offline gcda profile processing tool
+gdb-add-index (1)    - Add index files to speed up GDB
+genisoimage (1)      - create ISO9660/Joliet/HFS filesystem with optional Rock Ridge attributes
+genisoimagerc (5)    - startup configuration file for genisoimage
+getcap (8)           - examine file capabilities
+getdirentries (3)    - get directory entries in a filesystem-independent format
+getdtablesize (3)    - get file descriptor table size
+getfacl (1)          - get file access control lists
+getfsfile (3)        - handle fstab entries
+getgrent (3)         - get group file entry
+getgrent_r (3)       - get group file entry reentrantly
+getgrgid (3)         - get group file entry
+getgrgid_r (3)       - get group file entry
+getgrnam (3)         - get group file entry
+getgrnam_r (3)       - get group file entry
+getmntent (3)        - get filesystem descriptor file entry
+getmntent_r (3)      - get filesystem descriptor file entry
+getpwent (3)         - get password file entry
+getpwent_r (3)       - get passwd file entry reentrantly
+getpwnam (3)         - get password file entry
+getpwnam_r (3)       - get password file entry
+getpwuid (3)         - get password file entry
+getpwuid_r (3)       - get password file entry
+getspent (3)         - get shadow password file entry
+getspent_r (3)       - get shadow password file entry
+getspnam (3)         - get shadow password file entry
+getspnam_r (3)       - get shadow password file entry
+getttyent (3)        - get ttys file entry
+getttynam (3)        - get ttys file entry
+getutent (3)         - access utmp file entries
+getutent_r (3)       - access utmp file entries
+getutid (3)          - access utmp file entries
+getutid_r (3)        - access utmp file entries
+getutline (3)        - access utmp file entries
+getutline_r (3)      - access utmp file entries
+getutxent (3)        - access utmp file entries
+getutxid (3)         - access utmp file entries
+getutxline (3)       - access utmp file entries
+getwc (3)            - read a wide character from a FILE stream
+git-add (1)          - Add file contents to the index
+git-annotate (1)     - Annotate file lines with commit information
+git-apply (1)        - Apply a patch to files and/or to the index
+git-archive (1)      - Create an archive of files from a named tree
+git-blame (1)        - Show what revision and author last modified each line of a file
+git-bugreport (1)    - Collect information for user to file a bug report
+git-cat-file (1)     - Provide contents or details of repository objects
+git-check-ignore (1) - Debug gitignore / exclude files
+git-checkout (1)     - Switch branches or restore working tree files
+git-checkout-index (1) - Copy files from the index to the working tree
+git-clean (1)        - Remove untracked files from the working tree
+git-commit-graph (1) - Write and verify Git commit-graph files
+git-diff-files (1)   - Compares files in the working tree and the index
+git-fsmonitor--daemon (1) - A Built-in Filesystem Monitor
+git-gc (1)           - Cleanup unnecessary files and optimize the local repository
+git-hash-object (1)  - Compute object ID and optionally create an object from a file
+git-index-pack (1)   - Build pack index file for an existing packed archive
+git-ls-files (1)     - Show information about files in the index and the working tree
+git-merge-file (1)   - Run a three-way file merge
+git-merge-index (1)  - Run a merge for files needing merging
+git-merge-one-file (1) - The standard helper program to use with git-merge-index
+git-mv (1)           - Move or rename a file, a directory, or a symlink
+git-pack-redundant (1) - Find redundant pack files
+git-prune-packed (1) - Remove extra objects that are already in pack files
+git-restore (1)      - Restore working tree files
+git-rm (1)           - Remove files from the working tree and from the index
+git-sparse-checkout (1) - Reduce your working tree to a subset of tracked files
+git-stage (1)        - Add file contents to the staging area
+git-unpack-file (1)  - Creates a temporary file with a blob's contents
+git-update-index (1) - Register file contents in the working tree to the index
+git-update-server-info (1) - Update auxiliary info file to help dumb servers
+git-verify-pack (1)  - Validate packed Git archive files
+gitformat-bundle (5) - The bundle file format
+gitformat-chunk (5)  - Chunk-based file formats
+gitignore (5)        - Specifies intentionally untracked files to ignore
+gitweb.conf (5)      - Gitweb (Git web interface) configuration file
+go-mtpfs (1)         - FUSE filesystem for mounting Android device as MTP device
+gp-display-html (1)  - Generate an HTML based directory structure to browse the profiles
+gpg-check-pattern (1) - Check a passphrase on stdin against the patternfile
+gpgtar (1)           - Encrypt or sign files into an archive
+gprof (1)            - display call graph profile data
+group (5)            - user group file
+group.conf (5)       - configuration file for the pam_group module
+grpck (8)            - verify integrity of group files
+grub-file (1)        - check file type
+grub-fstest (1)      - debug tool for GRUB filesystem drivers
+grub-kbdcomp (1)     - generate a GRUB keyboard layout file
+grub-macbless (8)    - bless a mac file/directory
+grub-mkconfig (8)    - generate a GRUB configuration file
+grub-mkdevicemap (8) - make a device map file automatically
+grub-mkfont (1)      - make GRUB font files
+grub-mklayout (1)    - generate a GRUB keyboard layout file
+grub-mount (1)       - export GRUB filesystem with FUSE
+gshadow (5)          - shadowed group file
+gtk-builder-tool (1) - GtkBuilder file utility
+gtk4-builder-tool (1) - GtkBuilder File Utility
+gunzip (1)           - compress or expand files
+gzexe (1)            - compress executable files in place
+gzip (1)             - compress or expand files
+h2ph (1)             - convert .h C header files to .ph Perl header files
+h2xs (1)             - convert .h C header files to Perl extensions
+hardlink (1)         - link multiple copies of a file
+hasmntopt (3)        - get filesystem descriptor file entry
+hd (1)               - display file contents in hexadecimal, decimal, octal, or ascii
+hdparm.conf (5)      - Debian configuration file for hdparm
+head (1)             - output the first part of files
+helpztags (1)        - generate the help tags file for directory
+hexdump (1)          - display file contents in hexadecimal, decimal, octal, or ascii
+hier (7)             - description of the filesystem hierarchy
+host.conf (5)        - resolver configuration file
+hostname (5)         - Local hostname configuration file
+hosts.allow (5)      - format of host access control files
+hosts.deny (5)       - format of host access control files
+hosts_access (5)     - format of host access control files
+HTML::Form::FileInput (3pm) - An HTML form file input element for use with HTML::Form
+HTMLLinker (1)       - tool to fix up href references in HTML files
+htmltree (1p)        - Parse the given HTML file(s) and dump the parse tree
+HTTP::Cookies::Netscape (3pm) - Access to Netscape cookies files
+iceauth (1)          - ICE authority file utility
+initramfs.conf (5)   - configuration file for mkinitramfs
+inode (7)            - file inode information
+inotify (7)          - monitoring filesystem events
+install (1)          - copy files and set attributes
+intro (4)            - introduction to special files
+intro (5)            - introduction to file formats and filesystems
+IO::AtomicFile (3pm) - write a file which is updated atomically
+IO::HTML (3pm)       - Open an HTML file with automatic charset detection
+IO::InnerFile (3pm)  - define a file inside another file
+IO::Wrap (3pm)       - wrap raw filehandles in IO::Handle interface
+iocost.conf (5)      - Configuration files for the iocost solution manager
+ioctl_fat (2)        - manipulating the FAT filesystem
+ioctl_ficlone (2)    - share some the data of one file with another file
+ioctl_ficlonerange (2) - share some the data of one file with another file
+ioctl_fideduperange (2) - share some the data of one file with another file
+ioctl_fslabel (2)    - get or set a filesystem label
+ioctl_getfsmap (2)   - retrieve the physical layout of the filesystem
+ioctl_userfaultfd (2) - create a file descriptor for handling page faults in user space
+ipptoolfile (5)      - ipptool file format
+isatty (3)           - test whether a file descriptor refers to a terminal
+isfdtype (3)         - test file type of a file descriptor
+isosize (8)          - output the length of an iso9660 filesystem
+ispell-autobuildhash (8) - Autobuilding the ispell hash file for some dicts
+issue (5)            - prelogin message and identification file
+jfs_debugfs (8)      - shell-type JFS file system editor
+jfs_fscklog (8)      - extract a JFS fsck service log into a file and/or format and display the extracted file
+jfs_tune (8)         - adjust tunable file system parameters on JFS
+join (1)             - join lines of two files on a common field
+journald.conf (5)    - Journal service configuration files
+journald.conf.d (5)  - Journal service configuration files
+journald@.conf (5)   - Journal service configuration files
+jpgicc (1)           - little cms ICC profile applier for JPEG.
+kbuildsycoca5 (8)    - Rebuilds the KService desktop file system configuration cache
+kexec_file_load (2)  - load a new kernel for later execution
+keyboard (5)         - keyboard configuration file
+kup-filedigger (1)   - a program to explore and restore files from bup archives
+lame (1)             - create mp3 audio files
+lchown (2)           - change ownership of a file
+lchown32 (2)         - change ownership of a file
+lckpwdf (3)          - get shadow password file entry
+ldap.conf (5)        - LDAP configuration file/environment variables
+lessfile (1)         - "input preprocessor" for less.
+libaudit.conf (5)    - libaudit configuration file
+libpipewire-module-profiler (7) - Profiler
+limits.conf (5)      - configuration file for the pam_limits module
+link (1)             - call the link function to create a link to a file
+link (2)             - make a new name for a file
+linkat (2)           - make a new name for a file
+llseek (2)           - reposition read/write file offset
+lmhosts (5)          - The Samba NetBIOS hosts file
+ln (1)               - make links between files
+locale (5)           - describes a locale definition file
+locale-gen (8)       - generate localisation files from templates
+locale.conf (5)      - Configuration file for locale settings
+locale.gen (5)       - Configuration file for locale-gen
+localedef (1)        - compile locale definition files
+localtime (5)        - Local timezone configuration file
+locate (1)           - find files by name, quickly
+lockf (3)            - apply, test or remove a POSIX lock on an open file
+loff_t (3type)       - file sizes
+logind.conf (5)      - Login manager configuration files
+logind.conf.d (5)    - Login manager configuration files
+logsave (8)          - save the output of a command in a logfile
+logwtmp (3)          - append an entry to the wtmp file
+lp (1)               - print files
+lpr (1)              - print files
+lsar (1)             - list archive file contents
+lsattr (1)           - list file attributes on a Linux second extended file system
+lseek (2)            - reposition read/write file offset
+lseek64 (3)          - reposition 64-bit read/write file offset
+lsfd (1)             - list file descriptors
+lsof (8)             - list open files
+lstat (2)            - get file status
+lstat64 (2)          - get file status
+lto-dump-13 (1)      - Tool for dumping LTO object files
+lutimes (3)          - change file timestamps
+lvm.conf (5)         - Configuration file for LVM2
+lwp-download (1p)    - Fetch large files from the web
+LWP::MediaTypes (3pm) - guess media type for a file or a URL
+lzcat (1)            - Compress or decompress .xz and .lzma files
+lzcmp (1)            - compare compressed files
+lzdiff (1)           - compare compressed files
+lzegrep (1)          - search compressed files for a regular expression
+lzfgrep (1)          - search compressed files for a regular expression
+lzgrep (1)           - search compressed files for a regular expression
+lzless (1)           - view xz or lzma compressed (text) files
+lzma (1)             - Compress or decompress .xz and .lzma files
+lzmainfo (1)         - show information stored in the .lzma file header
+lzmore (1)           - view xz or lzma compressed (text) files
+machine-id (5)       - Local machine ID configuration file
+machine-info (5)     - Local machine information file
+magic (5)            - file command's magic pattern file
+Mail::Cap (3pm)      - understand mailcap files
+mailto.conf (5)      - configuration file for cups email notifier
+make_strings (1)     - tool to build lists of localizable strings from Objective-C files
+manpath (5)          - format of the /etc/manpath.config file
+memfd_create (2)     - create an anonymous file
+memfd_secret (2)     - create an anonymous RAM-based file to access secret memory regions
+memusage (1)         - profile memory usage of a program
+mib2c.conf (5)       - How to write mib2c.conf files to do ANYTHING based on MIB input.
+mime.convs (5)       - mime type conversion file for cups (deprecated)
+mime.types (5)       - mime type description file for cups
+mimeopen (1p)        - Open files by mimetype
+mimetype (1p)        - Determine file type
+mk_modmap (8)        - translate a Linux keytable file into an xmodmap file
+mkdosfs (8)          - create an MS-DOS FAT filesystem
+mke2fs (8)           - create an ext2/ext3/ext4 file system
+mke2fs.conf (5)      - Configuration file for mke2fs
+mkfifo (3)           - make a FIFO special file (a named pipe)
+mkfifoat (3)         - make a FIFO special file (a named pipe)
+mkfontdir (1)        - create an index of X font files in a directory
+mkfontscale (1)      - create an index of scalable font files for X
+mkfs (8)             - build a Linux filesystem
+mkfs.bfs (8)         - make an SCO bfs filesystem
+mkfs.btrfs (8)       - create a btrfs filesystem
+mkfs.cramfs (8)      - make compressed ROM file system
+mkfs.ext2 (8)        - create an ext2/ext3/ext4 file system
+mkfs.ext3 (8)        - create an ext2/ext3/ext4 file system
+mkfs.ext4 (8)        - create an ext2/ext3/ext4 file system
+mkfs.fat (8)         - create an MS-DOS FAT filesystem
+mkfs.minix (8)       - make a Minix filesystem
+mkfs.msdos (8)       - create an MS-DOS FAT filesystem
+mkfs.ntfs (8)        - create an NTFS file system
+mkfs.reiserfs (8)    - The create tool for the Linux ReiserFS filesystem.
+mkfs.vfat (8)        - create an MS-DOS FAT filesystem
+mkfs.xfs (8)         - construct an XFS filesystem
+mkisofs (1)          - create ISO9660/Joliet/HFS filesystem with optional Rock Ridge attributes
+mklost+found (8)     - create a lost+found directory on a mounted Linux second extended file system
+mknod (1)            - make block or character special files
+mknod (2)            - create a special or ordinary file
+mknodat (2)          - create a special or ordinary file
+mkntfs (8)           - create an NTFS file system
+mkostemp (3)         - create a unique temporary file
+mkostemps (3)        - create a unique temporary file
+mkreiserfs (8)       - The create tool for the Linux ReiserFS filesystem.
+mksquashfs (1)       - tool to create and append to squashfs filesystems
+mkstemp (3)          - create a unique temporary file
+mkstemps (3)         - create a unique temporary file
+mktemp (1)           - create a temporary file or directory
+mktemp (3)           - make a unique temporary filename
+mkzftree (1)         - Create a zisofs/RockRidge compressed file tree
+mmap (2)             - map or unmap files or devices into memory
+mmap2 (2)            - map files or devices into memory
+mmap64 (3)           - map or unmap files or devices into memory
+mode_t (3type)       - file attributes
+more (1)             - display the contents of a file in a terminal
+mount (2)            - mount filesystem
+mount (8)            - mount a filesystem
+mount.fuse (8)       - configuration and mount options for FUSE file systems
+mount.fuse3 (8)      - configuration and mount options for FUSE file systems
+mountpoint (1)       - see if a directory or file is a mountpoint
+msync (2)            - synchronize a file with a memory map
+munmap (2)           - map or unmap files or devices into memory
+mutagen-pony (1)     - scan a collection of MP3 files
+mv (1)               - move (rename) files
+name_to_handle_at (2) - obtain handle for a pathname and open file via a handle
+namespace.conf (5)   - the namespace configuration file
+nanorc (5)           - GNU nano's configuration file
+Net::SSLeay::Handle (3pm) - Perl module that lets SSL (HTTPS) sockets be handled as standard file handles.
+netplan-apply (8)    - apply configuration from Netplan YAML files to a running system
+netplan-generate (8) - generate back-end configuration from Netplan YAML files
+netplan-set (8)      - write Netplan YAML configuration snippets to file
+networkd.conf (5)    - Global Network configuration files
+networkd.conf.d (5)  - Global Network configuration files
+NetworkManager.conf (5) - NetworkManager configuration file
+newfstatat (2)       - get file status
+nfsslower-bpfcc (8)  - Trace slow NFS file operations, with per-event details.
+nftw (3)             - file tree walk
+nl (1)               - number lines of files
+nm (1)               - list symbols from object files
+nm-settings (5)      - Description of settings and properties of NetworkManager connection profiles for nmcli
+nm-settings-dbus (5) - Description of settings and properties of NetworkManager connection profiles on the D-Bus API
+nm-settings-keyfile (5) - Description of keyfile settings plugin
+nm-settings-nmcli (5) - Description of settings and properties of NetworkManager connection profiles for nmcli
+nm-system-settings.conf (5) - NetworkManager configuration file
+nss (5)              - Name Service Switch configuration file
+nsswitch.conf (5)    - Name Service Switch configuration file
+ntfscat (8)          - print NTFS files and streams on the standard output
+ntfscluster (8)      - identify files in a specified region of an NTFS volume.
+ntfscmp (8)          - compare two NTFS filesystems and tell the differences
+ntfscp (8)           - copy file to an NTFS volume.
+ntfsdecrypt (8)      - decrypt or update NTFS files encrypted according to EFS
+ntfsfallocate (8)    - preallocate space to a file on an NTFS volume
+ntfsinfo (8)         - dump a file's attributes
+ntfslabel (8)        - display/change the label on an ntfs file system
+ntfsls (8)           - list directory contents on an NTFS filesystem
+ntfsresize (8)       - resize an NTFS filesystem without data loss
+ntfstruncate (8)     - truncate a file on an NTFS volume
+ntfsundelete (8)     - recover a deleted file from an NTFS volume.
+ntfsusermap (8)      - NTFS Building a User Mapping File
+obexctl (1)          - A command-line interface of BlueZ for OBEX (file transfer)
+objcopy (1)          - copy and translate object files
+objdump (1)          - display information from object files
+od (1)               - dump files in octal and other formats
+off64_t (3type)      - file sizes
+off_t (3type)        - file sizes
+oldfstat (2)         - get file status
+oldlstat (2)         - get file status
+oldstat (2)          - get file status
+open (1)             - opens a file or URL in the user's preferred application
+open (2)             - open and possibly create a file
+open_by_handle_at (2) - obtain handle for a pathname and open file via a handle
+openat (2)           - open and possibly create a file
+openat2 (2)          - open and possibly create a file (extended)
+openssl-pkcs12 (1ssl) - PKCS#12 file command
+openssl-rehash (1ssl) - Create symbolic links to files named by the hash values
+openssl-srp (1ssl)   - maintain SRP password file
+org.bluez.GattProfile (5) - BlueZ D-Bus GattProfile API documentation
+org.bluez.obex.FileTransfer (5) - BlueZ D-Bus OBEX FileTransfer API documentation
+org.bluez.Profile (5) - BlueZ D-Bus Profile API documentation
+org.bluez.ProfileManager (5) - BlueZ D-Bus ProfileManager API documentation
+osirrox (1)          - creates, loads, manipulates and writes ISO 9660 filesystem images with Rock Ridge extensions.
+ossl_store-file (7ssl) - The store 'file' scheme loader
+p7zip (1)            - Wrapper on 7-Zip file archiver with high compression ratio
+pam-auth-update (8)  - manage PAM configuration using packaged profiles
+pam.conf (5)         - PAM configuration files
+pam.d (5)            - PAM configuration files
+pam_env.conf (5)     - the environment variables config files
+pam_issue (8)        - PAM module to add issue file to user prompt
+pam_listfile (8)     - deny or allow services based on an arbitrary file
+pam_motd (8)         - Display the motd file
+pam_umask (8)        - PAM module to set the file mode creation mask
+par2 (1)             - PAR 2.0 compatible file verification and repair tool.
+par2create (1)       - PAR 2.0 compatible file verification and repair tool.
+par2repair (1)       - PAR 2.0 compatible file verification and repair tool.
+par2verify (1)       - PAR 2.0 compatible file verification and repair tool.
+passwd (5)           - the password file
+paste (1)            - merge lines of files
+patch (1)            - apply a diff file to an original
+path_resolution (7)  - how a pathname is resolved to a file
+pathchk (1)          - check whether file names are valid or portable
+pathconf (3)         - get configuration values for files
+pbget (1)            - compress and encode arbitrary files to pastebin.com
+pbput (1)            - compress and encode arbitrary files to pastebin.com
+pbputs (1)           - compress and encode arbitrary files to pastebin.com
+pcap-savefile (5)    - libpcap savefile format
+pdfattach (1)        - Portable Document Format (PDF) document embedded file creator (version 3.03)
+pdfdetach (1)        - Portable Document Format (PDF) document embedded file extractor (version 3.03)
+pdftohtml (1)        - program to convert PDF files into HTML, XML and PNG images
+peekfd (1)           - peek at file descriptors of running processes
+perf-archive (1)     - Create archive with object files with build-ids found in perf.data file
+perf-buildid-list (1) - List the buildids in a perf.data file
+perf-config (1)      - Get and set variables in a configuration file.
+perf-data (1)        - Data file related processing
+perf-diff (1)        - Read perf.data files and display the differential profile
+perf-dlfilter (1)    - Filter sample events using a dynamically loaded shared object file
+perf-evlist (1)      - List the event names in a perf.data file
+perf-mem (1)         - Profile memory accesses
+perf-record (1)      - Run a command and record its profile into perf.data
+perf-report (1)      - Read perf.data (created by perf record) and display the profile
+pf2afm (1)           - Make an AFM file from Postscript (PFB/PFA/PFM) font files using ghostscript
+pidfd_getfd (2)      - obtain a duplicate of another process's file descriptor
+pidfd_open (2)       - obtain a file descriptor that refers to a process
+pidfd_send_signal (2) - send a signal to a process specified by a file descriptor
+pivot_root (8)       - change the root filesystem
+pl2pm (1)            - Rough tool to translate Perl4 .pl files to Perl5 .pm modules.
+plocate (1)          - find files by name, quickly
+pod2html (1)         - convert .pod files to .html files
+pod2usage (1)        - print usage messages from embedded pod docs in files
+podchecker (1)       - check the syntax of POD format documentation files
+poll (2)             - wait for some event on a file descriptor
+poolset (5)          - persistent memory pool configuration file format
+posix_fadvise (2)    - predeclare an access pattern for file data
+posix_fallocate (3)  - allocate file space
+powerprofilesctl (1) - Command line utility to control Power Profiles Daemon
+ppdcfile (5)         - cups ppd compiler source file format (deprecated)
+ppdi (1)             - import ppd files (deprecated)
+ppdmerge (1)         - merge ppd files (deprecated)
+ppoll (2)            - wait for some event on a file descriptor
+pppdump (8)          - convert PPP record file to readable format
+pr (1)               - convert text files for printing
+pread (2)            - read from or write to a file descriptor at a given offset
+pread64 (2)          - read from or write to a file descriptor at a given offset
+preconv (1)          - prepare files for typesetting with groff
+preparetips5 (1)     - extract text from tips file
+printer-profile (1)  - Profile using X-Rite ColorMunki and Argyll CMS
+printers.conf (5)    - printer configuration file for cups
+proc (5)             - process information, system information, and sysctl pseudo-filesystem
+proc_fs (5)          - mounted filesystems
+proc_locks (5)       - current file locks and leases
+proc_mounts (5)      - mounted filesystems
+proc_pid_fd (5)      - file descriptors
+proc_pid_fdinfo (5)  - information about file descriptors
+proc_pid_mounts (5)  - mounted filesystems
+proc_sys (5)         - system information, and sysctl pseudo-filesystem
+proc_sys_fs (5)      - kernel variables related to filesystems
+procfs (5)           - process information, system information, and sysctl pseudo-filesystem
+procps (3)           - API to access system level information in the /proc filesystem
+procps_misc (3)      - API for miscellaneous information in the /proc filesystem
+procps_pids (3)      - API to access process information in the /proc filesystem
+profil (3)           - execution time profile
+profile-bpfcc (8)    - Profile CPU usage by sampling stack traces. Uses Linux eBPF/bcc.
+projid (5)           - the project name mapping file
+protocols (5)        - protocols definition file
+pstore.conf (5)      - PStore configuration file
+pstore.conf.d (5)    - PStore configuration file
+ptargrep (1)         - Apply pattern matching to the contents of files in a tar archive
+ptx (1)              - produce a permuted index of file contents
+putgrent (3)         - write a group database entry to a file
+putpwent (3)         - write a password file entry
+putspent (3)         - get shadow password file entry
+pututline (3)        - access utmp file entries
+pututxline (3)       - access utmp file entries
+putwc (3)            - write a wide character to a FILE stream
+pw-profiler (1)      - The PipeWire profiler
+pwck (8)             - verify the integrity of password files
+pwhistory.conf (5)   - pam_pwhistory configuration file
+pwrite (2)           - read from or write to a file descriptor at a given offset
+pwrite64 (2)         - read from or write to a file descriptor at a given offset
+py3clean (1)         - removes .pyc and .pyo files
+py3compile (1)       - byte compile Python 3 source files
+pygmentize (1)       - highlights the input file
+qt-faststart (1)     - utility for Quicktime files
+read (2)             - read from a file descriptor
+readahead (2)        - initiate file readahead into page cache
+readelf (1)          - display information about ELF files
+readlink (1)         - print resolved symbolic links or canonical file names
+readprofile (8)      - read kernel profiling information
+reiserfsck (8)       - The checking tool for the ReiserFS filesystem.
+reiserfstune (8)     - The tunning tool for the ReiserFS filesystem.
+remap_file_pages (2) - create a nonlinear file mapping
+remove (3)           - remove a file or directory
+rename (2)           - change the name or location of a file
+rename.ul (1)        - rename files
+renameat (2)         - change the name or location of a file
+renameat2 (2)        - change the name or location of a file
+repart.d (5)         - Partition Definition Files for Automatic Boot-Time Repartitioning
+request-key.conf (5) - Instantiation handler configuration file
+resize2fs (8)        - ext2/ext3/ext4 file system resizer
+resize_reiserfs (8)  - resizer tool for the ReiserFS filesystem
+resolv.conf (5)      - resolver configuration file
+resolved.conf (5)    - Network Name Resolution configuration files
+resolved.conf.d (5)  - Network Name Resolution configuration files
+resolver (5)         - resolver configuration file
+rm (1)               - remove files or directories
+rsync (1)            - a fast, versatile, remote (and local) file-copying tool
+rsyncd.conf (5)      - configuration file for rsync in daemon mode
+rsyslog.conf (5)     - rsyslogd(8) configuration file
+sa1 (8)              - Collect and store binary data in the system activity daily data file.
+sa2 (8)              - Create a report from the current standard system activity daily data file.
+samba (7)            - A Windows AD and SMB/CIFS fileserver for UNIX
+sane-find-scanner (1) - find SCSI and USB scanners and their device files
+savelog (8)          - save a log file
+scanf (3)            - input FILE format conversion
+scp (1)              - OpenSSH secure file copy
+sdiff (1)            - side-by-side merge of file differences
+semanage.conf (5)    - global configuration file for the SELinux Management library
+sendfile (2)         - transfer data between file descriptors
+sendfile64 (2)       - transfer data between file descriptors
+sepermit.conf (5)    - configuration file for the pam_sepermit module
+setcap (8)           - set file capabilities
+setfacl (1)          - set file access control lists
+setfsgid (2)         - set group identity used for filesystem checks
+setfsgid32 (2)       - set group identity used for filesystem checks
+setfsuid (2)         - set user identity used for filesystem checks
+setfsuid32 (2)       - set user identity used for filesystem checks
+setgrent (3)         - get group file entry
+setmntent (3)        - get filesystem descriptor file entry
+setpwent (3)         - get password file entry
+setspent (3)         - get shadow password file entry
+setttyent (3)        - get ttys file entry
+setup (2)            - setup devices and filesystems, mount root filesystem
+setutent (3)         - access utmp file entries
+setutxent (3)        - access utmp file entries
+sfparse (1)          - string file parse
+sftp (1)             - OpenSSH secure file transfer
+sgetspent (3)        - get shadow password file entry
+sgetspent_r (3)      - get shadow password file entry
+shadow (5)           - shadowed password file
+shred (1)            - overwrite a file to hide its contents, and optionally delete it
+signalfd (2)         - create a file descriptor for accepting signals
+signalfd4 (2)        - create a file descriptor for accepting signals
+size (1)             - list section sizes and total size of binary files
+sleep.conf.d (5)     - Suspend and hibernation configuration file
+smartd.conf (5)      - SMART Disk Monitoring Daemon Configuration File
+smb.conf (5)         - The configuration file for the Samba suite
+smbcacls (1)         - Set or get ACLs on an NT file or directory names
+smbget (1)           - wget-like utility for download files over SMB
+smbpasswd (5)        - The Samba encrypted password file
+smbspool (8)         - send a print file to an SMB printer
+snmp.conf (5)        - configuration files for the Net-SNMP applications
+snmp_config (5)      - handling of Net-SNMP configuration files
+soelim (1)           - recursively interpolate source requests in roff or other text files
+sort (1)             - sort lines of text files
+spa-acp-tool (1)     - The PipeWire ALSA profile debugging utility
+split (1)            - split a file into pieces
+spufs (7)            - SPU filesystem
+sqfscat (1)          - tool to cat files from a squashfs filesystem to stdout
+sqfstar (1)          - tool to create a squashfs filesystem from a tar archive
+ssh-import-id (1)    - retrieve one or more public keys from a public keyserver and append them to the current user's authorized_keys file (or some other specified file)
+ssh-import-id-gh (1) - retrieve one or more public keys from a public keyserver and append them to the current user's authorized_keys file (or some other specified file)
+ssh-import-id-lp (1) - retrieve one or more public keys from a public keyserver and append them to the current user's authorized_keys file (or some other specified file)
+ssh_config (5)       - OpenSSH client configuration file
+sshd_config (5)      - OpenSSH daemon configuration file
+sshfs (1)            - filesystem client based on SSH
+stat (1)             - display file or file system status
+stat (2)             - get file status
+stat (3type)         - file status
+stat64 (2)           - get file status
+statfs (2)           - get filesystem statistics
+statfs64 (2)         - get filesystem statistics
+statvfs (3)          - get filesystem statistics
+statx (2)            - get file status (extended)
+stdio_ext (3)        - interfaces to stdio FILE structure
+streamzip (1)        - create a zip file from stdin
+strings (1)          - print the sequences of printable characters in files
+strip (1)            - discard symbols and other data from object files
+subscriptions.conf (5) - subscription configuration file for cups
+suffixes (7)         - list of file suffixes
+sum (1)              - checksum and count the blocks in a file
+swapoff (2)          - start/stop swapping to file/device
+swapoff (8)          - enable/disable devices and files for paging and swapping
+swapon (2)           - start/stop swapping to file/device
+swapon (8)           - enable/disable devices and files for paging and swapping
+switch_root (8)      - switch to another filesystem as the root of the mount tree
+swtpm-localca.conf (8) - Configuration file for swtpm_localca
+swtpm-localca.options (8) - Options file for swtpm_localca
+swtpm_setup.conf (8) - Configuration file for swtpm_setup
+symlink (2)          - make a new name for a file
+symlinkat (2)        - make a new name for a file
+sync (2)             - commit filesystem caches to disk
+sync_file_range (2)  - sync a file segment with disk
+sync_file_range2 (2) - sync a file segment with disk
+syncfs (2)           - commit filesystem caches to disk
+sysctl.conf (5)      - sysctl preload/configuration file
+sysfs (2)            - get filesystem type information
+sysfs (5)            - a filesystem for exporting kernel objects
+sysstat (5)          - sysstat configuration file.
+system.conf.d (5)    - System and session service manager configuration files
+systemd-delta (1)    - Find overridden configuration files
+systemd-fsck (8)     - File system checker logic
+systemd-fsck-root.service (8) - File system checker logic
+systemd-fsck-usr.service (8) - File system checker logic
+systemd-fsck@.service (8) - File system checker logic
+systemd-fsckd (8)    - File system check progress reporting
+systemd-fsckd.service (8) - File system check progress reporting
+systemd-fsckd.socket (8) - File system check progress reporting
+systemd-growfs (8)   - Creating and growing file systems on demand
+systemd-growfs-root.service (8) - Creating and growing file systems on demand
+systemd-growfs@.service (8) - Creating and growing file systems on demand
+systemd-makefs (8)   - Creating and growing file systems on demand
+systemd-makefs@.service (8) - Creating and growing file systems on demand
+systemd-mkswap@.service (8) - Creating and growing file systems on demand
+systemd-pcrextend (8) - Measure boot phase into TPM2 PCR 11, machine ID and file system identity into PCR 15
+systemd-pcrfs-root.service (8) - Measure boot phase into TPM2 PCR 11, machine ID and file system identity into PCR 15
+systemd-pcrfs@.service (8) - Measure boot phase into TPM2 PCR 11, machine ID and file system identity into PCR 15
+systemd-pcrlock-file-system.service (8) - Analyze and predict TPM2 PCR states and generate an access policy from the prediction
+systemd-pcrmachine.service (8) - Measure boot phase into TPM2 PCR 11, machine ID and file system identity into PCR 15
+systemd-pcrphase-initrd.service (8) - Measure boot phase into TPM2 PCR 11, machine ID and file system identity into PCR 15
+systemd-pcrphase-sysinit.service (8) - Measure boot phase into TPM2 PCR 11, machine ID and file system identity into PCR 15
+systemd-pcrphase.service (8) - Measure boot phase into TPM2 PCR 11, machine ID and file system identity into PCR 15
+systemd-quotacheck (8) - File system quota checker logic
+systemd-quotacheck.service (8) - File system quota checker logic
+systemd-remount-fs (8) - Remount root and kernel file systems
+systemd-remount-fs.service (8) - Remount root and kernel file systems
+systemd-sleep.conf (5) - Suspend and hibernation configuration file
+systemd-system.conf (5) - System and session service manager configuration files
+systemd-tmpfiles (8) - Creates, deletes and cleans up volatile and temporary files and directories
+systemd-tmpfiles-clean.service (8) - Creates, deletes and cleans up volatile and temporary files and directories
+systemd-tmpfiles-clean.timer (8) - Creates, deletes and cleans up volatile and temporary files and directories
+systemd-tmpfiles-setup-dev-early.service (8) - Creates, deletes and cleans up volatile and temporary files and directories
+systemd-tmpfiles-setup-dev.service (8) - Creates, deletes and cleans up volatile and temporary files and directories
+systemd-tmpfiles-setup.service (8) - Creates, deletes and cleans up volatile and temporary files and directories
+systemd-user.conf (5) - System and session service manager configuration files
+systemd-volatile-root (8) - Make the root file system volatile
+systemd-volatile-root.service (8) - Make the root file system volatile
+systemd-xdg-autostart-generator (8) - User unit generator for XDG autostart files
+systemd.environment-generator (7) - systemd environment file generators
+systemd.negative (5) - DNSSEC trust anchor configuration files
+systemd.pcrlock (5)  - PCR measurement prediction files
+systemd.pcrlock.d (5) - PCR measurement prediction files
+systemd.positive (5) - DNSSEC trust anchor configuration files
+systemd.syntax (7)   - General syntax of systemd configuration files
+sysupdate.d (5)      - Transfer Definition Files for Automatic Updates
+tac (1)              - concatenate and print files in reverse
+tail (1)             - output the last part of files
+tee (1)              - read from standard input and write to standard output and files
+tempfile (1)         - create a temporary file in a safe manner
+tempnam (3)          - create a name for a temporary file
+test (1)             - check file types and compare values
+testparm (1)         - check an smb.conf configuration file for internal correctness
+thermal-conf.xml (5) - Configuration file for thermal daemon
+thin_check (8)       - validates thin provisioning metadata on a device or file
+thin_dump (8)        - dump thin provisioning metadata from device or file to standard output.
+thin_metadata_size (8) - thin provisioning metadata device/file size calculator.
+thin_restore (8)     - restore thin provisioning metadata file to device or file.
+thin_rmap (8)        - output reverse map of a thin provisioned region of blocks frommetadata device or file.
+tificc (1)           - little cms ICC profile applier for TIFF.
+time.conf (5)        - configuration file for the pam_time module
+timerfd_create (2)   - timers that notify via file descriptors
+timerfd_gettime (2)  - timers that notify via file descriptors
+timerfd_settime (2)  - timers that notify via file descriptors
+timesyncd.conf (5)   - Network Time Synchronization configuration files
+timesyncd.conf.d (5) - Network Time Synchronization configuration files
+tmpfile (3)          - create a temporary file
+tmpfiles.d (5)       - Configuration for creation, deletion and cleaning of volatile and temporary files
+tmpfs (5)            - a virtual memory filesystem
+tmpnam (3)           - create a name for a temporary file
+tmpnam_r (3)         - create a name for a temporary file
+tnftp (1)            - Internet file transfer program
+touch (1)            - change file timestamps
+trace-cmd-attach (1) - attach a guest trace.dat file to a host trace.dat file
+trace-cmd-convert (1) - convert trace files
+trace-cmd-dump (1)   - show a meta data from a trace file, created by trace-cmd record
+trace-cmd-hist (1)   - show histogram of events in trace.dat file
+trace-cmd-profile (1) - profile tasks running live
+trace-cmd-split (1)  - split a trace.dat file into smaller files
+trace-cmd.dat.v6 (5) - trace-cmd version 6 file format
+trace-cmd.dat.v7 (5) - trace-cmd version 7 file format
+tracecmd_add_ts_offset (3) - Handle time stamps from a trace file.
+tracecmd_buffer_instance_handle (3) - Read tracing instances from a trace file.
+tracecmd_buffer_instance_name (3) - Read tracing instances from a trace file.
+tracecmd_buffer_instances (3) - Read tracing instances from a trace file.
+tracecmd_close (3)   - Open and close a trace file.
+tracecmd_filter_add (3) - Read events from a trace file
+tracecmd_follow_event (3) - Read events from a trace file
+tracecmd_follow_missed_events (3) - Read events from a trace file
+tracecmd_free_record (3) - Read recorded events from a trace file.
+tracecmd_get_first_ts (3) - Handle time stamps from a trace file.
+tracecmd_get_guest_cpumap (3) - Manage trace session with multiple trace peers, recorded in multiple trace files.
+tracecmd_get_private (3) - Open and close a trace file.
+tracecmd_get_tep (3) - Read recorded events from a trace file.
+tracecmd_get_traceid (3) - Manage trace session with multiple trace peers, recorded in multiple trace files.
+tracecmd_get_tsc2nsec (3) - Handle time stamps from a trace file.
+tracecmd_init_data (3) - Open and close a trace file.
+tracecmd_iterate_events (3) - Read events from a trace file
+tracecmd_iterate_events_multi (3) - Read events from a trace file
+tracecmd_open (3)    - Open and close a trace file.
+tracecmd_open_fd (3) - Open and close a trace file.
+tracecmd_open_head (3) - Open and close a trace file.
+tracecmd_read_at (3) - Read recorded events from a trace file.
+tracecmd_read_cpu_first (3) - Read recorded events from a trace file.
+tracecmd_read_data (3) - Read recorded events from a trace file.
+tracecmd_set_private (3) - Open and close a trace file.
+truncate (1)         - shrink or extend the size of a file to the specified size
+truncate (2)         - truncate a file to a specified length
+truncate64 (2)       - truncate a file to a specified length
+ts.conf (5)          - Configuration file for tslib, controlling touch screens for embedded devices.
+ts_close_restricted (3) - use a custom function for closing the touchscreen's input device file
+ts_conf_get (3)      - get a pointer to struct ts_module_conf holding data from the TSLIB_CONFFILE file.
+ts_conf_set (3)      - write a new TSLIB_CONFFILE config file and reload it.
+ts_fd (3)            - get the file descriptor to a touchscreen device
+ts_get_eventpath (3) - get the path to the currently opened touchscreen device file
+ts_open_restricted (3) - use a custom function for opening the touchscreen's input device file
+tty (1)              - print the file name of the terminal connected to standard input
+ttyslot (3)          - find the slot of the current user's terminal in some file
+tune2fs (8)          - adjust tunable file system parameters on ext2/ext3/ext4 file systems
+tunefs.reiserfs (8)  - The tunning tool for the ReiserFS filesystem.
+tzfile (5)           - timezone information
+ubuntu-bug (1)       - file a bug report using Apport, or update an existing report
+ucf (1)              - Update Configuration File: preserve user changes in configuration files
+ucf.conf (5)         - site-wide configuration file for ucf
+ucfr (1)             - Update Configuration File Registry: associate packages with configuration files
+udisks2.conf (5)     - The udisks2 configuration file
+ulckpwdf (3)         - get shadow password file entry
+umask (2)            - set file mode creation mask
+umount (2)           - unmount filesystem
+umount (8)           - unmount filesystems
+umount.udisks2 (8)   - unmount file systems that have been mounted by UDisks2
+umount2 (2)          - unmount filesystem
+unar (1)             - extract archive file contents
+uncompress (1)       - compress or expand files
+ungetwc (3)          - push back a wide character onto a FILE stream
+unlink (1)           - call the unlink function to remove the specified file
+unlink (2)           - delete a name and possibly the file it refers to
+unlinkat (2)         - delete a name and possibly the file it refers to
+unlzma (1)           - Compress or decompress .xz and .lzma files
+unsquashfs (1)       - tool to uncompress, extract and list squashfs filesystems
+unxz (1)             - Compress or decompress .xz and .lzma files
+unzip (1)            - list, test and extract compressed files in a ZIP archive
+unzstd (1)           - zstd, zstdmt, unzstd, zstdcat - Compress or decompress .zst files
+update-catalog (8)   - create or update entry in SGML catalog file
+update-desktop-database (1) - Build cache database of MIME types handled by desktop files
+update-fonts-alias (8) - compile fonts.alias files
+update-fonts-dir (8) - compile fonts.dir files
+update-fonts-scale (8) - generate fonts.scale files
+update-ieee-data (8) - update data files from IEEE Standards Association such as the OUI and IAB lists
+update-info-dir (8)  - update or create index file from all installed info files in directory
+update-initramfs.conf (5) - configuration file for update-initramfs
+update-xmlcatalog (8) - maintain XML catalog files
+updatedb.conf (5)    - a configuration file for updatedb(8)
+updwtmp (3)          - append an entry to the wtmp file
+updwtmpx (3)         - append an entry to the wtmp file
+URI::file (3pm)      - URI that maps to local file names
+user.conf.d (5)      - System and session service manager configuration files
+userdel (8)          - delete a user account and related files
+userfaultfd (2)      - create a file descriptor for handling page faults in user space
+ustat (2)            - get filesystem statistics
+utime (2)            - change file last access and modification times
+utimensat (2)        - change file timestamps with nanosecond precision
+utimes (2)           - change file last access and modification times
+utmpdump (1)         - dump UTMP and WTMP files in raw format
+utmpname (3)         - access utmp file entries
+utmpxname (3)        - access utmp file entries
+vfscanf (3)          - input FILE format conversion
+vgmknodes (8)        - Create the special files for volume group devices in /dev
+vigr (8)             - edit the password, group, shadow-password or shadow-group file
+vimdiff (1)          - edit between two and eight versions of a file with Vim and show differences
+vipw (8)             - edit the password, group, shadow-password or shadow-group file
+virt-pki-validate (1) - validate libvirt PKI files are configured correctly
+virt-xml-validate (1) - validate libvirt XML files against a schema
+virtfs-proxy-helper (1) - QEMU 9p virtfs proxy filesystem helper
+visudo (8)           - edit the sudoers file
+vscanf (3)           - input FILE format conversion
+wc (1)               - print newline, word, and byte counts for each file
+whereis (1)          - locate the binary, source, and manual page files for a command
+wordview (1)         - displays text contained in MS-Word file in X window
+wpa_supplicant.conf (5) - configuration file for wpa_supplicant
+write (2)            - write to a file descriptor
+writeback.bt (8)     - Trace file system writeback events with details. Uses bpftrace/eBPF.
+wvdial.conf (5)      - wvdial configuration file
+wvdialconf (1)       - build a configuration file for wvdial (1)
+WWW::RobotRules::AnyDBM_File (3pm) - Persistent RobotRules
+X11::Auth (3pm)      - Perl module to read X11 authority files
+X11::Protocol::Connection::FileHandle (3pm) - Perl module base class for FileHandle-based X11 connections
+X11::Protocol::Connection::INETFH (3pm) - Perl module for FileHandle-based TCP/IP X11 connections
+X11::Protocol::Connection::UNIXFH (3pm) - Perl module for FileHandle-based Unix-domain X11 connections
+x86_64-linux-gnu-addr2line (1) - convert addresses or symbol+offset into file names and line numbers
+x86_64-linux-gnu-elfedit (1) - update ELF header and program property of ELF files
+x86_64-linux-gnu-gcov-dump (1) - offline gcda and gcno profile dump tool
+x86_64-linux-gnu-gcov-dump-13 (1) - offline gcda and gcno profile dump tool
+x86_64-linux-gnu-gcov-tool (1) - offline gcda profile processing tool
+x86_64-linux-gnu-gcov-tool-13 (1) - offline gcda profile processing tool
+x86_64-linux-gnu-gp-display-html (1) - Generate an HTML based directory structure to browse the profiles
+x86_64-linux-gnu-gprof (1) - display call graph profile data
+x86_64-linux-gnu-lto-dump (1) - Tool for dumping LTO object files
+x86_64-linux-gnu-lto-dump-13 (1) - Tool for dumping LTO object files
+x86_64-linux-gnu-nm (1) - list symbols from object files
+x86_64-linux-gnu-objcopy (1) - copy and translate object files
+x86_64-linux-gnu-objdump (1) - display information from object files
+x86_64-linux-gnu-readelf (1) - display information about ELF files
+x86_64-linux-gnu-size (1) - list section sizes and total size of binary files
+x86_64-linux-gnu-strings (1) - print the sequences of printable characters in files
+x86_64-linux-gnu-strip (1) - discard symbols and other data from object files
+xauth (1)            - X authority file utility
+xcursorgen (1)       - create an X cursor file from a collection of PNG images
+xdg-mime (1)         - command line tool for querying information about file type handling and adding descriptions for new file types
+xdg-open (1)         - opens a file or URL in the user's preferred application
+xfs (5)              - layout, mount options, and supported file attributes for the XFS filesystem
+xfs_admin (8)        - change parameters of an XFS filesystem
+xfs_bmap (8)         - print block mapping for an XFS file
+xfs_copy (8)         - copy the contents of an XFS filesystem
+xfs_db (8)           - debug an XFS filesystem
+xfs_estimate (8)     - estimate the space that an XFS filesystem will take
+xfs_freeze (8)       - suspend access to an XFS filesystem
+xfs_fsr (8)          - filesystem reorganizer for XFS
+xfs_growfs (8)       - expand an XFS filesystem
+xfs_info (8)         - display XFS filesystem geometry information
+xfs_io (8)           - debug the I/O path of an XFS filesystem
+xfs_logprint (8)     - print the log of an XFS filesystem
+xfs_mdrestore (8)    - restores an XFS metadump image to a filesystem image
+xfs_metadump (8)     - copy XFS filesystem metadata to a file
+xfs_mkfile (8)       - create an XFS file
+xfs_quota (8)        - manage use of quota on XFS filesystems
+xfs_repair (8)       - repair an XFS filesystem
+xfs_scrub (8)        - check and repair the contents of a mounted XFS filesystem
+xfs_scrub_all (8)    - scrub all mounted XFS filesystems
+xfs_spaceman (8)     - show free space information about an XFS filesystem
+xfsslower-bpfcc (8)  - Trace slow xfs file operations, with per-event details.
+xkeyboard-config (7) - XKB data description files
+xls2csv (1)          - reads MS-Excel file and puts its content as comma-separated data on standard output
+xmlcatalog (1)       - Command line tool to parse and manipulate XML or SGML catalog files.
+xorg.conf (5)        - configuration files for Xorg X server
+xorg.conf.d (5)      - configuration files for Xorg X server
+xorriso (1)          - creates, loads, manipulates and writes ISO 9660 filesystem images with Rock Ridge extensions.
+xz (1)               - Compress or decompress .xz and .lzma files
+xzcat (1)            - Compress or decompress .xz and .lzma files
+xzcmp (1)            - compare compressed files
+xzdiff (1)           - compare compressed files
+xzegrep (1)          - search compressed files for a regular expression
+xzfgrep (1)          - search compressed files for a regular expression
+xzgrep (1)           - search compressed files for a regular expression
+xzless (1)           - view xz or lzma compressed (text) files
+xzmore (1)           - view xz or lzma compressed (text) files
+zcat (1)             - compress or expand files
+zcmp (1)             - compare compressed files
+zdiff (1)            - compare compressed files
+zegrep (1)           - search possibly compressed files for a regular expression
+zfgrep (1)           - search possibly compressed files for a regular expression
+zforce (1)           - force a '.gz' extension on all gzip files
+zfsslower-bpfcc (8)  - Trace slow zfs file operations, with per-event details.
+zgrep (1)            - search possibly compressed files for a regular expression
+zip (1)              - package and compress (archive) files
+zipcloak (1)         - encrypt entries in a zipfile
+zipdetails (1)       - display the internal structure of zip files
+zipgrep (1)          - search files in a ZIP archive for lines matching a pattern
+zipnote (1)          - write the comments in zipfile to stdout, edit comments and rename files in zipfile
+zipsplit (1)         - split a zipfile into smaller zipfiles
+zless (1)            - file perusal filter for crt viewing of compressed text
+zmore (1)            - file perusal filter for crt viewing of compressed text
+znew (1)             - recompress .Z files to .gz files
+zstd (1)             - zstd, zstdmt, unzstd, zstdcat - Compress or decompress .zst files
+zstdcat (1)          - zstd, zstdmt, unzstd, zstdcat - Compress or decompress .zst files
+zstdgrep (1)         - print lines matching a pattern in zstandard-compressed files
+zstdless (1)         - view zstandard-compressed files
+zstdmt (1)           - zstd, zstdmt, unzstd, zstdcat - Compress or decompress .zst files

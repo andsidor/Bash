@@ -1,0 +1,86 @@
+    1  which zsh
+    2  ls
+    3  cd ..
+    4  pwd
+    5  ls
+    6  \ngit clone  ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+    7  \ngit clone https://github.com/zsh-users/zsh-autosuggestions  ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+    8  wifi
+    9  git clone https://github.com/zsh-users/zsh-syntax-highlighting. ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+   10  git clone https://github.com/zsh-users/zsh-syntax-highlighting  ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+   11  ls -l
+   12  ls -lah | grep ".zshrc"
+   13  cd ~
+   14  nano .zshrc
+   15  source .zshrc
+   16  git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
+   17  nano .zshrc
+   18  source .zshrc
+   19  ls -l 
+   20  which zsh
+   21  curl -sS https://starship.rs/install.sh | sh
+   22  nano .zshrc
+   23  which zsh
+   24  source .zshrc
+   25  ls
+   26  cd ~
+   27  ls
+   28  pwd
+   29  ~
+   30  ls
+   31  cd ..
+   32  ls
+   33  vim .zshrc
+   34  cd .config
+   35  ls
+   36  nano .zshrc
+   37  vim .zshrc
+   38  cd 
+   39  cd .config
+   40  ls
+   41  nano starship.toml
+   42  vim starship.toml
+   43  exit
+   44  ls
+   45  cd .config
+   46  exit
+   47  source ~/anaconda3/bin/activate root
+   48  ^[[200~anaconda-navigator
+   49  ~^[[200~anaconda-navigator
+   50  clear 
+   51  source ~/anaconda3/bin/activate root
+   52  anaconda-navigator
+   53  ls
+   54  cd Documents
+   55  ls
+   56  cd Dev
+   57  ls
+   58  cd Bash
+   59  git status
+   60  ~ 
+   61  ls
+   62  cd .
+   63  cd .config
+   64  ls
+   65  ls -l
+   66  nano starship.toml
+   67  sudo apt install winbind playonlinux winetricks -y 
+   68  pwd
+   69  ls
+   70  cd Dev
+   71  ls
+   72  nano hello.sh
+   73  nano hello_world.sh
+   74  bash hello_world.sh
+   75  nano hello_world.sh
+   76  bash hello_world.sh
+   77  nano hello_world.sh
+   78  bash hello_world.sh
+   79  clear
+   80  bash hello_world.sh
+   81  nano hello_world.sh
+   82  bash hello_world.sh
+   83  nano hello_world.sh
+   84  bash hello_world.sh
+   85  nano hello_world.sh
+   86* history > 2909.txt

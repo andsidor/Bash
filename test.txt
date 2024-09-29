@@ -1,0 +1,24 @@
+date: unrecognized option '--who'
+Try 'date --help' for more information.
+total 84
+-rw-rw-r-- 1 sidor sidor 1339 wrz 13 01:29 1.txt
+-rw-rw-r-- 1 sidor sidor   44 wrz 13 01:29 2.txt
+-rwxrwxr-x 1 sidor sidor  125 wrz 13 01:29 basic_math.sh
+-rwxrwxr-x 1 sidor sidor   98 wrz 13 01:29 condition1.sh
+-rwxrwxr-x 1 sidor sidor  213 wrz 13 01:29 condition2.sh
+-rwxrwxr-x 1 sidor sidor  125 wrz 13 01:29 condition.sh
+-rw-rw-r-- 1 sidor sidor   32 wrz 13 01:26 First.sh
+-rwxrwxr-x 1 sidor sidor   75 wrz 13 01:29 hello.sh
+drwxrwxr-x 2 sidor sidor 4096 wrz 13 01:29 _history
+-rwxrwxr-x 1 sidor sidor  207 wrz 13 01:29 if.sh
+-rw-rw-r-- 1 sidor sidor 1383 wrz 13 01:29 komplet.txt
+-rwxrwxr-x 1 sidor sidor   77 wrz 13 01:29 myscript.sh
+-rw-rw-r-- 1 sidor sidor   27 wrz 13 01:29 README.md
+-rwxrwxr-x 1 sidor sidor  212 wrz 13 01:29 sript_to_install_app
+-rwxrwxr-x 1 sidor sidor  212 wrz 13 01:29 sript_to_install_htop
+-rw-rw-r-- 1 sidor sidor   74 wrz 15 22:14 test.txt
+-rwxrwxr-x 1 sidor sidor  124 wrz 13 01:29 #while_loop.sh#
+-rwxrwxr-x 1 sidor sidor  178 wrz 13 01:29 while_loop.sh
+-rwxrwxr-x 1 sidor sidor  117 wrz 13 01:29 while_loop.sh~
+-rwxrwxr-x 1 sidor sidor  115 wrz 15 22:09 wl_001
+-rwxrwxr-x 1 sidor sidor  450 wrz 13 01:29 zapisz_do_pliku.sh

@@ -1,0 +1,14 @@
+#!/bin/bash
+
+command=htop
+
+
+if command -v $command
+then
+   echo "$command is avaiable"
+else
+   echo "$command is not avaiable, it will be instaled"
+   sudo apt update && sudo apt install -y $command
+fi
+
+$command
