@@ -26,3 +26,7 @@ Dodaj test do pliku
        capabilities: ethernet physical tp mii 10bt 10bt-fd 100bt 100bt-fd 1000bt 1000bt-fd autonegotiation
        configuration: autonegotiation=on broadcast=yes driver=r8152 driverversion=v1.12.13 duplex=full firmware=rtl8153a-4 v2 02/07/20 ip=192.168.55.114 link=yes multicast=yes port=MII speed=100Mbit/s
 -----------------------------------------------------
+
+
+
+
