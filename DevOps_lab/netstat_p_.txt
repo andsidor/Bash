@@ -1,0 +1,1119 @@
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 hpsidor:47186           a2-19-198-50.depl:https ESTABLISHED 4788/msedge --type= 
+tcp        0      0 hpsidor:48010           waw02s18-in-f3.1e:https ESTABLISHED 4788/msedge --type= 
+tcp        0      0 hpsidor:34672           104.26.12.205:https     ESTABLISHED 4788/msedge --type= 
+tcp        0      0 hpsidor:53634           104.17.246.203:https    ESTABLISHED 4788/msedge --type= 
+tcp        0      0 hpsidor:58816           server-108-138-51:https ESTABLISHED 4788/msedge --type= 
+tcp        0      0 hpsidor:45886           muc03s08-in-f40.1:https ESTABLISHED 4788/msedge --type= 
+tcp        0      0 hpsidor:53764           server-108-138-50:https ESTABLISHED 4788/msedge --type= 
+tcp        0      0 hpsidor:60148           104.17.24.14:https      ESTABLISHED 4788/msedge --type= 
+tcp        0      0 hpsidor:34178           lh-in-f156.1e100.:https ESTABLISHED 4788/msedge --type= 
+tcp        0      0 hpsidor:33956           a2-19-198-66.depl:https ESTABLISHED 4788/msedge --type= 
+tcp        0      0 hpsidor:55272           151.101.2.137:https     ESTABLISHED 4788/msedge --type= 
+tcp        0      0 hpsidor:35942           204.141.43.144:https    ESTABLISHED 4788/msedge --type= 
+tcp        0      0 hpsidor:35480           136.143.182.97:https    ESTABLISHED 4788/msedge --type= 
+tcp        0      0 hpsidor:58788           server-108-138-51:https ESTABLISHED 4788/msedge --type= 
+tcp        0      0 hpsidor:53800           waw02s17-in-f10.1:https ESTABLISHED 4788/msedge --type= 
+tcp        0      0 hpsidor:58782           server-108-138-51:https ESTABLISHED 4788/msedge --type= 
+tcp        0      0 hpsidor:50710           151.101.2.217:https     ESTABLISHED 4788/msedge --type= 
+tcp        0      0 hpsidor:56142           waw07s06-in-f14.1:https ESTABLISHED 4788/msedge --type= 
+tcp        0      0 hpsidor:43200           40.126.32.133:https     ESTABLISHED 4788/msedge --type= 
+tcp        0      0 hpsidor:34370           40.113.103.199:https    ESTABLISHED 4788/msedge --type= 
+tcp       32      0 hpsidor:42398           20.114.190.119:https    CLOSE_WAIT  4788/msedge --type= 
+tcp        0      0 hpsidor:54460           104.26.9.44:https       ESTABLISHED 4788/msedge --type= 
+tcp        0      0 hpsidor:58804           server-108-138-51:https ESTABLISHED 4788/msedge --type= 
+tcp        0      0 hpsidor:55308           216.239.32.36:https     ESTABLISHED 4788/msedge --type= 
+tcp        0      0 hpsidor:52042           server-18-244-146:https ESTABLISHED 4788/msedge --type= 
+tcp        0      0 hpsidor:57100           server-13-227-153:https ESTABLISHED 4788/msedge --type= 
+tcp        0      0 hpsidor:54440           server-13-227-146:https ESTABLISHED 4788/msedge --type= 
+udp        0    896 hpsidor:38311           _gateway:domain         ESTABLISHED -                   
+udp        0    896 hpsidor:39221           _gateway:domain         ESTABLISHED -                   
+udp        0      0 hpsidor:42403           172.67.184.158:https    ESTABLISHED 4788/msedge --type= 
+udp        0      0 hpsidor:59472           waw07s06-in-f3.1e:https ESTABLISHED 4788/msedge --type= 
+udp        0    896 hpsidor:45327           _gateway:domain         ESTABLISHED -                   
+udp        0      0 hpsidor:bootpc          _gateway:bootps         ESTABLISHED 2059/NetworkManager 
+udp        0      0 hpsidor:bootpc          _gateway:bootps         ESTABLISHED 2059/NetworkManager 
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   PID/Program name     Path
+unix  3      [ ]         STREAM     CONNECTED     108239   13192/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     32963    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     29430    4512/python3         
+unix  3      [ ]         STREAM     CONNECTED     24525    4363/org_kde_powerd  
+unix  3      [ ]         STREAM     CONNECTED     29170    4068/kwalletd5       
+unix  3      [ ]         STREAM     CONNECTED     16347    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     20717    2549/cupsd           
+unix  3      [ ]         STREAM     CONNECTED     19567    2261/cupsd           
+unix  3      [ ]         STREAM     CONNECTED     30711    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34354    4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     31268    4950/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     32221    4940/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     29861    4365/xembedsniproxy  
+unix  3      [ ]         STREAM     CONNECTED     30847    2454/Xorg            @/tmp/.X11-unix/X0
+unix  2      [ ]         STREAM     CONNECTED     87440    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     48602    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     111745   13263/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     28059    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     30737    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     29463    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     29890    4231/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     24513    4271/kded5           
+unix  3      [ ]         STREAM     CONNECTED     29852    4334/dconf-service   
+unix  3      [ ]         STREAM     CONNECTED     22440    4019/sddm-helper     
+unix  3      [ ]         STREAM     CONNECTED     18879    2717/cups-browsed    
+unix  3      [ ]         STREAM     CONNECTED     114998   13677/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     33474    5407/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34353    5184/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     31215    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     29239    4231/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     13537    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     113352   13737/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     110280   13677/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     48601    6866/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     29791    4202/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     59925    4269/ksmserver       @/tmp/.ICE-unix/4269
+unix  3      [ ]         STREAM     CONNECTED     35055    4940/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     25275    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     11213    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     32937    4539/DiscoverNotifi  
+unix  3      [ ]         STREAM     CONNECTED     27182    4328/plasmashell     
+unix  3      [ ]         STREAM     CONNECTED     22435    4019/sddm-helper     
+unix  3      [ ]         STREAM     CONNECTED     114997   4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     108863   4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     33476    5407/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     31402    4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34351    5184/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     24497    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     107226   13248/msedge --type  
+unix  2      [ ]         DGRAM      CONNECTED     14000    1929/bluetoothd      
+unix  3      [ ]         DGRAM      CONNECTED     16994    1/init               
+unix  3      [ ]         STREAM     CONNECTED     106676   4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     34866    4783/msedge --type=  
+unix  2      [ ]         DGRAM      CONNECTED     19003    3093/qmgr            
+unix  3      [ ]         STREAM     CONNECTED     18684    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     17480    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         DGRAM      CONNECTED     10822    1577/systemd-timesy  
+unix  3      [ ]         STREAM     CONNECTED     37214    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     24554    4431/obexd           
+unix  3      [ ]         STREAM     CONNECTED     29184    4306/kglobalaccel5   
+unix  3      [ ]         STREAM     CONNECTED     116918   4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     31264    4872/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34010    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     25451    4269/ksmserver       @/tmp/.ICE-unix/4269
+unix  3      [ ]         STREAM     CONNECTED     19727    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     110342   5224/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     59898    4364/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     34928    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     125074   2261/cupsd           /run/cups/cups.sock
+unix  3      [ ]         STREAM     CONNECTED     111739   13257/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     49564    4041/pipewire-pulse  /run/user/1000/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     27282    4506/kdeconnectd     
+unix  3      [ ]         STREAM     CONNECTED     28025    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     30775    4231/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     23548    4043/dbus-daemon     /run/user/1000/bus
+unix  2      [ ]         DGRAM      CONNECTED     3784     628/systemd-journal  
+unix  3      [ ]         STREAM     CONNECTED     128205   14887/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     24537    4364/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     29153    4269/ksmserver       
+unix  3      [ ]         STREAM     CONNECTED     131967   5190/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     33580    5683/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34132    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     31214    4871/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     29889    4364/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     29233    4361/gmenudbusmenup  
+unix  3      [ ]         STREAM     CONNECTED     20091    3173/fwupd           
+unix  3      [ ]         STREAM     CONNECTED     15915    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     110281   4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     107224   4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     35469    5332/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     30959    4231/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     23544    4041/pipewire-pulse  
+unix  3      [ ]         STREAM     CONNECTED     23667    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     111738   4734/msedge          
+unix  3      [ ]         DGRAM      CONNECTED     10819    1577/systemd-timesy  
+unix  3      [ ]         STREAM     CONNECTED     25600    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     11221    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     43029    5709/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34020    4836/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     30994    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     31874    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     23718    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     12186    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     13892    1/init               /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM      CONNECTED     1992     664/systemd-udevd    
+unix  3      [ ]         STREAM     CONNECTED     23545    4041/pipewire-pulse  
+unix  3      [ ]         STREAM     CONNECTED     23673    3089/master          
+unix  2      [ ]         DGRAM                    17071    1962/udisksd         
+unix  3      [ ]         STREAM     CONNECTED     106677   4043/dbus-daemon     /run/user/1000/bus
+unix  2      [ ]         DGRAM      CONNECTED     15969    1942/polkitd         
+unix  3      [ ]         STREAM     CONNECTED     31290    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     29465    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     27155    4328/plasmashell     
+unix  3      [ ]         STREAM     CONNECTED     25330    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     10755    1523/systemd-resolv  
+unix  3      [ ]         STREAM     CONNECTED     132011   4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     31265    4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34817    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     27235    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     30861    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     27013    2433/sddm            /tmp/sddm-auth-a268e0ba-e39d-4b54-82e2-5166ef00265b
+unix  3      [ ]         STREAM     CONNECTED     14335    2433/sddm            
+unix  3      [ ]         STREAM     CONNECTED     107229   4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     60690    7770/dolphin         
+unix  3      [ ]         STREAM     CONNECTED     61762    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     23665    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     24446    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM      CONNECTED     16176    2464/dnsmasq         
+unix  3      [ ]         STREAM     CONNECTED     17039    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     24528    4362/polkit-kde-aut  
+unix  3      [ ]         STREAM     CONNECTED     24512    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     19050    3105/dbus            
+unix  3      [ ]         STREAM     CONNECTED     20976    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     19579    2266/sh              
+unix  3      [ ]         STREAM     CONNECTED     32667    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     31267    4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     116762   4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     109894   13224/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     60691    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     99311    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     26300    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     29041    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM      CONNECTED     12265    2037/rsyslogd        
+unix  2      [ ]         DGRAM      CONNECTED     15882    1960/systemd-machin  
+unix  3      [ ]         STREAM     CONNECTED     108238   4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34390    5190/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     27173    4364/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     22434    4019/sddm-helper     
+unix  3      [ ]         STREAM     CONNECTED     43028    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     31261    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     33992    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     29994    4529/agent           
+unix  3      [ ]         STREAM     CONNECTED     28084    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     19896    2710/colord          
+unix  3      [ ]         STREAM     CONNECTED     14016    1957/switcheroo-con  
+unix  2      [ ]         DGRAM                    17549    1963/virtlockd       
+unix  3      [ ]         STREAM     CONNECTED     113288   13717/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     107225   13263/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     103413   12777/konsole        
+unix  3      [ ]         STREAM     CONNECTED     104180   12651/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     27275    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     29790    4202/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     23668    3089/master          
+unix  3      [ ]         DGRAM      CONNECTED     17067    1/init               
+unix  2      [ ]         DGRAM      CONNECTED     11209    1931/@dbus-daemon    
+unix  3      [ ]         STREAM     CONNECTED     16159    2273/python3         
+unix  3      [ ]         STREAM     CONNECTED     11169    1961/thermald        
+unix  3      [ ]         STREAM     CONNECTED     115741   4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     108843   13224/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     36807    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34167    4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     31262    4969/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     25499    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     29251    4269/ksmserver       @/tmp/.ICE-unix/4269
+unix  3      [ ]         STREAM     CONNECTED     27140    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     27131    4272/kwin_x11        
+unix  3      [ ]         STREAM     CONNECTED     29717    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     14331    2433/sddm            
+unix  3      [ ]         STREAM     CONNECTED     116764   4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     35470    5224/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     23662    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     17515    1975/avahi-daemon:   
+unix  3      [ ]         STREAM     CONNECTED     101084   4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     27273    4506/kdeconnectd     
+unix  3      [ ]         STREAM     CONNECTED     30776    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     32209    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     32782    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     24529    4365/xembedsniproxy  
+unix  3      [ ]         STREAM     CONNECTED     19671    2401/winbindd        
+unix  3      [ ]         STREAM     CONNECTED     33588    5683/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     36816    5670/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     27174    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     29230    4363/org_kde_powerd  
+unix  3      [ ]         STREAM     CONNECTED     30780    4231/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     27040    4069/startplasma-x1  
+unix  3      [ ]         STREAM     CONNECTED     29088    2454/Xorg            @/tmp/.X11-unix/X0
+unix  2      [ ]         DGRAM                    24411    4037/pipewire        
+unix  3      [ ]         STREAM     CONNECTED     103414   4269/ksmserver       @/tmp/.ICE-unix/4269
+unix  3      [ ]         STREAM     CONNECTED     39183    5700/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     30599    5341/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     27274    4506/kdeconnectd     
+unix  3      [ ]         STREAM     CONNECTED     25279    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     17607    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     35258    5224/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34391    4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     29466    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     25419    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     18870    2731/kerneloops      
+unix  3      [ ]         STREAM     CONNECTED     11222    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     32668    5407/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     31263    4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34011    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     30000    4512/python3         
+unix  3      [ ]         STREAM     CONNECTED     26555    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     18539    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     113189   13677/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     116761   13634/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     104186   12651/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     31213    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     33839    4269/ksmserver       @/tmp/.ICE-unix/4269
+unix  3      [ ]         STREAM     CONNECTED     17251    2253/upowerd         
+unix  2      [ ]         STREAM     CONNECTED     71947    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     34977    4734/msedge          
+unix  2      [ ]         DGRAM                    26143    4023/systemd         /run/user/1000/systemd/notify
+unix  2      [ ]         DGRAM                    22443    4019/sddm-helper     
+unix  3      [ ]         STREAM     CONNECTED     29543    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     29369    4539/DiscoverNotifi  
+unix  3      [ ]         STREAM     CONNECTED     27143    4269/ksmserver       
+unix  3      [ ]         STREAM     CONNECTED     36808    5670/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     35375    4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     29234    4363/org_kde_powerd  
+unix  3      [ ]         STREAM     CONNECTED     27057    4202/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     17104    2065/wpa_supplicant  
+unix  3      [ ]         STREAM     CONNECTED     116843   4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     110279   4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     32973    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     24489    4269/ksmserver       
+unix  3      [ ]         STREAM     CONNECTED     59926    4231/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     28028    4231/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     27051    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         DGRAM      CONNECTED     10820    1577/systemd-timesy  
+unix  3      [ ]         STREAM     CONNECTED     32962    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     29191    4328/plasmashell     
+unix  3      [ ]         STREAM     CONNECTED     11236    2059/NetworkManager  
+unix  3      [ ]         STREAM     CONNECTED     15950    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     36815    4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     35376    5332/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34070    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     28106    4269/ksmserver       @/tmp/.ICE-unix/4269
+unix  3      [ ]         STREAM     CONNECTED     27124    4271/kded5           
+unix  3      [ ]         STREAM     CONNECTED     29719    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     14334    2433/sddm            
+unix  3      [ ]         STREAM     CONNECTED     116842   13717/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     110278   13677/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     96872    11081/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     32958    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     28026    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     23539    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     17499    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     29544    4940/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     32956    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     28108    4231/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     29859    4364/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     22437    4019/sddm-helper     
+unix  3      [ ]         STREAM     CONNECTED     19670    2458/winbindd: doma  
+unix  3      [ ]         STREAM     CONNECTED     108842   4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     37904    5484/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     35374    5332/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     26421    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     25429    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     27121    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     27071    4224/at-spi-bus-lau  
+unix  3      [ ]         STREAM     CONNECTED     14135    1956/snapd           
+unix  3      [ ]         STREAM     CONNECTED     104179   4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     23655    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     17638    2101/ModemManager    
+unix  3      [ ]         STREAM     CONNECTED     24414    4037/pipewire        /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     33579    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     38935    5484/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     35377    4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     31403    4871/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     30123    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     27277    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     27132    4272/kwin_x11        
+unix  3      [ ]         STREAM     CONNECTED     27117    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     14336    2433/sddm            
+unix  3      [ ]         STREAM     CONNECTED     116844   13717/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     30184    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     23670    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     17328    2454/Xorg            
+unix  3      [ ]         STREAM     CONNECTED     117466   4734/msedge          
+unix  2      [ ]         DGRAM      CONNECTED     15968    2065/wpa_supplicant  
+unix  2      [ ]         DGRAM      CONNECTED     12191    1928/avahi-daemon:   
+unix  3      [ ]         STREAM     CONNECTED     8455     1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     29368    4539/DiscoverNotifi  
+unix  3      [ ]         STREAM     CONNECTED     24530    4365/xembedsniproxy  
+unix  3      [ ]         STREAM     CONNECTED     29834    4271/kded5           
+unix  2      [ ]         STREAM     CONNECTED     29081    4068/kwalletd5       /run/user/1000/kwallet5.socket
+unix  3      [ ]         STREAM     CONNECTED     20527    2253/upowerd         
+unix  3      [ ]         STREAM     CONNECTED     17735    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     43017    5700/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34071    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     26591    4037/pipewire        /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     29862    4365/xembedsniproxy  
+unix  3      [ ]         STREAM     CONNECTED     30815    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     26311    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     30598    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     29738    4188/xdg-document-p  
+unix  3      [ ]         STREAM     CONNECTED     23656    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     1986     664/systemd-udevd    
+unix  3      [ ]         STREAM     CONNECTED     34929    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     27279    4512/python3         
+unix  3      [ ]         STREAM     CONNECTED     29462    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     33793    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     24511    4332/kactivitymanag  
+unix  3      [ ]         STREAM     CONNECTED     22438    4019/sddm-helper     
+unix  2      [ ]         STREAM     CONNECTED     18878    2717/cups-browsed    
+unix  3      [ ]         STREAM     CONNECTED     11211    1931/@dbus-daemon    
+unix  3      [ ]         STREAM     CONNECTED     115160   13772/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     113718   13224/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     43037    5709/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     37903    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     33475    4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34133    4950/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     29367    4269/ksmserver       @/tmp/.ICE-unix/4269
+unix  3      [ ]         STREAM     CONNECTED     29185    4231/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     17107    1942/polkitd         
+unix  3      [ ]         STREAM     CONNECTED     14007    1962/udisksd         
+unix  3      [ ]         STREAM     CONNECTED     113255   13677/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     104227   12777/konsole        
+unix  3      [ ]         STREAM     CONNECTED     39181    5700/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     29740    4188/xdg-document-p  
+unix  3      [ ]         STREAM     CONNECTED     23659    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     17588    2059/NetworkManager  
+unix  3      [ ]         STREAM     CONNECTED     96871    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34818    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     29467    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     29835    4271/kded5           
+unix  3      [ ]         STREAM     CONNECTED     30748    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     29044    4037/pipewire        
+unix  3      [ ]         STREAM     CONNECTED     12271    1939/python3         
+unix  3      [ ]         STREAM     CONNECTED     17590    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     113717   4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     43022    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     32605    5199/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     32220    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34047    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     29370    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     28083    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     17271    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     116840   4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     113256   4871/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     29792    4202/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     26228    4037/pipewire        
+unix  2      [ ]         DGRAM      CONNECTED     14041    1959/systemd-logind  
+unix  3      [ ]         STREAM     CONNECTED     101135   12777/konsole        
+unix  3      [ ]         STREAM     CONNECTED     34927    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     29444    4041/pipewire-pulse  
+unix  3      [ ]         STREAM     CONNECTED     29366    4539/DiscoverNotifi  
+unix  3      [ ]         STREAM     CONNECTED     29166    4272/kwin_x11        
+unix  3      [ ]         STREAM     CONNECTED     31266    4969/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     31871    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     25450    4272/kwin_x11        
+unix  3      [ ]         STREAM     CONNECTED     27130    4272/kwin_x11        
+unix  3      [ ]         STREAM     CONNECTED     13972    1967/virtlogd        
+unix  3      [ ]         STREAM     CONNECTED     107227   4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     23658    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     17282    2273/python3         
+unix  3      [ ]         STREAM     CONNECTED     17479    1957/switcheroo-con  
+unix  3      [ ]         STREAM     CONNECTED     53968    7770/dolphin         
+unix  3      [ ]         DGRAM      CONNECTED     10821    1577/systemd-timesy  
+unix  3      [ ]         STREAM     CONNECTED     38896    6866/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     29238    4363/org_kde_powerd  
+unix  3      [ ]         STREAM     CONNECTED     22526    4169/fcitx5          
+unix  3      [ ]         STREAM     CONNECTED     115080   4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     37915    5484/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34019    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     25483    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     28062    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     26219    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     17070    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     116841   13717/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     109892   13224/msedge --type  
+unix  2      [ ]         DGRAM      CONNECTED     29897    4431/obexd           
+unix  3      [ ]         STREAM     CONNECTED     29760    4202/xdg-desktop-po  
+unix  2      [ ]         DGRAM      CONNECTED     14002    1929/bluetoothd      
+unix  3      [ ]         STREAM     CONNECTED     27418    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     15942    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     29325    4506/kdeconnectd     
+unix  3      [ ]         STREAM     CONNECTED     27172    4363/org_kde_powerd  
+unix  3      [ ]         STREAM     CONNECTED     30749    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     132012   14887/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     43023    5700/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34468    5314/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     31486    5224/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34168    4940/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     30086    4328/plasmashell     
+unix  3      [ ]         STREAM     CONNECTED     27156    4231/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     30781    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     14333    2433/sddm            
+unix  3      [ ]         STREAM     CONNECTED     16160    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     17250    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     113287   4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     104203   12747/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     24490    4068/kwalletd5       
+unix  3      [ ]         STREAM     CONNECTED     29824    4272/kwin_x11        
+unix  3      [ ]         STREAM     CONNECTED     111744   4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     14899    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     27361    4041/pipewire-pulse  /run/user/1000/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     24555    4431/obexd           
+unix  3      [ ]         STREAM     CONNECTED     29250    4362/polkit-kde-aut  
+unix  3      [ ]         STREAM     CONNECTED     25415    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     22436    4019/sddm-helper     
+unix  2      [ ]         DGRAM                    23669    3089/master          public/postlog
+unix  3      [ ]         STREAM     CONNECTED     15879    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     36817    4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     37914    4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     31404    4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     29232    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     19921    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     15979    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     104187   4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     39182    4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     30513    5184/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     32157    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     29757    4202/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     17606    2101/ModemManager    
+unix  2      [ ]         DGRAM                    48444    2065/wpa_supplicant  /run/wpa_supplicant/wlo1
+unix  2      [ ]         DGRAM      CONNECTED     11247    2101/ModemManager    
+unix  3      [ ]         STREAM     CONNECTED     128204   4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     108237   13192/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     49566    4041/pipewire-pulse  
+unix  3      [ ]         STREAM     CONNECTED     37913    5484/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34072    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     25479    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     29204    4332/kactivitymanag  
+unix  3      [ ]         STREAM     CONNECTED     25274    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     19909    2725/kerneloops      
+unix  3      [ ]         STREAM     CONNECTED     17185    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     17424    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     107228   13248/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     24509    4334/dconf-service   
+unix  3      [ ]         STREAM     CONNECTED     17289    2273/python3         
+unix  3      [ ]         STREAM     CONNECTED     99313    4231/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     53942    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     34867    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     27417    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     24487    4269/ksmserver       
+unix  3      [ ]         STREAM     CONNECTED     43016    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     33477    4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     26563    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     29992    4539/DiscoverNotifi  
+unix  3      [ ]         STREAM     CONNECTED     28060    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     23622    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     21784    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     113379   13772/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     116763   13634/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     104188   12651/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     23674    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     17290    2273/python3         
+unix  3      [ ]         STREAM     CONNECTED     17514    1928/avahi-daemon:   
+unix  3      [ ]         STREAM     CONNECTED     38897    6866/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     32957    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     29258    4181/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     24531    4231/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     29837    4306/kglobalaccel5   
+unix  3      [ ]         STREAM     CONNECTED     30849    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     29117    4237/at-spi2-regist  
+unix  3      [ ]         STREAM     CONNECTED     36814    5670/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34224    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     29718    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     11220    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM      CONNECTED     10108    1523/systemd-resolv  
+unix  3      [ ]         STREAM     CONNECTED     113351   4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     116845   4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     103415   12777/konsole        
+unix  3      [ ]         DGRAM      CONNECTED     17068    1/init               
+unix  3      [ ]         STREAM     CONNECTED     117467   14182/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     108314   13213/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     25412    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     27195    4407/xsettingsd      
+unix  3      [ ]         STREAM     CONNECTED     25413    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     12184    1931/@dbus-daemon    
+unix  3      [ ]         STREAM     CONNECTED     11092    1928/avahi-daemon:   
+unix  3      [ ]         STREAM     CONNECTED     116919   13772/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     115159   4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     32606    4871/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     31546    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     25395    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         DGRAM      CONNECTED     1996     664/systemd-udevd    
+unix  3      [ ]         STREAM     CONNECTED     109895   4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     48604    6866/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     30512    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     29825    4269/ksmserver       
+unix  3      [ ]         STREAM     CONNECTED     23664    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     108315   13192/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     28103    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     25481    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     27142    4269/ksmserver       
+unix  3      [ ]         STREAM     CONNECTED     29118    4237/at-spi2-regist  
+unix  3      [ ]         STREAM     CONNECTED     22439    4019/sddm-helper     
+unix  3      [ ]         STREAM     CONNECTED     15978    2065/wpa_supplicant  
+unix  3      [ ]         STREAM     CONNECTED     43036    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     26620    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     29941    4512/python3         
+unix  3      [ ]         STREAM     CONNECTED     27123    4272/kwin_x11        
+unix  3      [ ]         STREAM     CONNECTED     103416   12777/konsole        
+unix  3      [ ]         STREAM     CONNECTED     104202   4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     39184    4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     24408    4037/pipewire        
+unix  3      [ ]         STREAM     CONNECTED     17449    1939/python3         
+unix  3      [ ]         STREAM     CONNECTED     53967    7770/dolphin         
+unix  3      [ ]         STREAM     CONNECTED     29101    4043/dbus-daemon     /run/user/1000/bus
+unix  2      [ ]         DGRAM                    14888    2037/rsyslogd        /var/spool/postfix/dev/log
+unix  2      [ ]         DGRAM      CONNECTED     10814    1577/systemd-timesy  
+unix  3      [ ]         STREAM     CONNECTED     37215    5332/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     29464    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     30862    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     29034    4039/wireplumber     
+unix  3      [ ]         STREAM     CONNECTED     21914    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     12274    1939/python3         
+unix  3      [ ]         STREAM     CONNECTED     11210    1931/@dbus-daemon    
+unix  3      [ ]         STREAM     CONNECTED     115081   13737/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     49550    6866/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     37916    4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     31485    5184/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34352    4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     11216    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     110341   13717/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     104189   4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     27465    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     23523    4041/pipewire-pulse  
+unix  3      [ ]         STREAM     CONNECTED     23661    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     101085   12738/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     108240   4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     51666    4037/pipewire        /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     33002    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     25340    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     12273    1939/python3         
+unix  3      [ ]         STREAM     CONNECTED     115742   13634/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     108864   13248/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     30712    5407/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     31216    4872/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     25491    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     25487    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     17129    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     109893   4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     60692    7770/dolphin         
+unix  3      [ ]         STREAM     CONNECTED     26240    4039/wireplumber     
+unix  3      [ ]         DGRAM      CONNECTED     16993    1/init               
+unix  3      [ ]         STREAM     CONNECTED     53964    7770/dolphin         
+unix  3      [ ]         STREAM     CONNECTED     34978    4969/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     26220    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     29373    4539/DiscoverNotifi  
+unix  3      [ ]         STREAM     CONNECTED     29363    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     11191    1944/power-profiles  
+unix  3      [ ]         STREAM     CONNECTED     33587    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     38934    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     26445    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     29241    4231/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     27133    4306/kglobalaccel5   
+unix  3      [ ]         STREAM     CONNECTED     119671   4328/plasmashell     
+unix  3      [ ]         STREAM     CONNECTED     113380   4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     17498    1960/systemd-machin  
+unix  4      [ ]         DGRAM      CONNECTED     2877     1/init               /run/systemd/notify
+unix  3      [ ]         STREAM     CONNECTED     35056    4788/msedge --type=  
+unix  2      [ ]         DGRAM                    29107    4181/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     16140    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     32955    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     29358    4539/DiscoverNotifi  
+unix  3      [ ]         STREAM     CONNECTED     27169    4364/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     29119    4237/at-spi2-regist  
+unix  3      [ ]         STREAM     CONNECTED     15866    1929/bluetoothd      
+unix  3      [ ]         STREAM     CONNECTED     131968   13737/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     49549    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     34467    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     31401    4871/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     14332    2433/sddm            
+unix  3      [ ]         DGRAM      CONNECTED     1997     664/systemd-udevd    
+unix  3      [ ]         STREAM     CONNECTED     113188   4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     26562    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     23671    3089/master          
+unix  2      [ ]         DGRAM      CONNECTED     22448    4019/sddm-helper     
+unix  3      [ ]         STREAM     CONNECTED     17283    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     129232   15092/sudo           
+unix  3      [ ]         STREAM     CONNECTED     128092   4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     27411    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     29177    4231/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     19908    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     42079    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     26460    4439/kscreen_backen  
+unix  3      [ ]         STREAM     CONNECTED     21788    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     94826    4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     29574    4950/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     27477    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     28032    4269/ksmserver       
+unix  3      [ ]         STREAM     CONNECTED     122482   4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     58805    7770/dolphin         
+unix  2      [ ]         DGRAM      CONNECTED     5079     1/init               
+unix  3      [ ]         STREAM     CONNECTED     37231    4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     36459    4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     32971    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     24498    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     25365    4224/at-spi-bus-lau  
+unix  3      [ ]         STREAM     CONNECTED     27918    4039/wireplumber     
+unix  2      [ ]         DGRAM      CONNECTED     118758   14660/pickup         
+unix  3      [ ]         STREAM     CONNECTED     107681   12747/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     26462    4439/kscreen_backen  
+unix  3      [ ]         STREAM     CONNECTED     17500    1/init               /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM                    2899     1/init               /run/systemd/journal/syslog
+unix  3      [ ]         STREAM     CONNECTED     107113   13192/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     37435    5709/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     60684    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     37232    5341/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     31122    4872/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     29359    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     27175    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     26420    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     91880    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     29789    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     23597    3089/master          
+unix  2      [ ]         DGRAM                    17868    2433/sddm            
+unix  3      [ ]         STREAM     CONNECTED     14212    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  21     [ ]         DGRAM      CONNECTED     2903     1/init               /run/systemd/journal/dev-log
+unix  3      [ ]         STREAM     CONNECTED     26415    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     28047    4306/kglobalaccel5   
+unix  9      [ ]         DGRAM      CONNECTED     2905     1/init               /run/systemd/journal/socket
+unix  3      [ ]         STREAM     CONNECTED     107159   13213/msedge --type  
+unix  2      [ ]         STREAM     CONNECTED     66004    2717/cups-browsed    
+unix  3      [ ]         STREAM     CONNECTED     31085    4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     31997    4531/kaccess         
+unix  3      [ ]         STREAM     CONNECTED     25325    4069/startplasma-x1  
+unix  3      [ ]         STREAM     CONNECTED     18582    2261/cupsd           
+unix  3      [ ]         STREAM     CONNECTED     33989    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     26461    4439/kscreen_backen  
+unix  3      [ ]         STREAM     CONNECTED     124723   4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     94610    10829/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     35153    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     37092    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     28066    4328/plasmashell     
+unix  2      [ ]         DGRAM      CONNECTED     14828    1961/thermald        
+unix  3      [ ]         STREAM     CONNECTED     37438    4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     13180    1944/power-profiles  
+unix  3      [ ]         STREAM     CONNECTED     111030   4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     107679   12738/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     91912    11081/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     34705    4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     27341    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     30848    4271/kded5           
+unix  3      [ ]         STREAM     CONNECTED     27026    4037/pipewire        /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     23637    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     23606    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     15941    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     29609    4897/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     122483   14791/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     107126   4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     30864    4043/dbus-daemon     /run/user/1000/bus
+unix  2      [ ]         DGRAM      CONNECTED     25262    4043/dbus-daemon     
+unix  3      [ ]         STREAM     CONNECTED     13200    1956/snapd           
+unix  3      [ ]         STREAM     CONNECTED     25249    4043/dbus-daemon     
+unix  3      [ ]         STREAM     CONNECTED     109409   4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     58812    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     26621    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     33991    4734/msedge          
+unix  3      [ ]         SEQPACKET  CONNECTED     33983    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     26554    4531/kaccess         
+unix  3      [ ]         STREAM     CONNECTED     30874    4328/plasmashell     
+unix  3      [ ]         STREAM     CONNECTED     29103    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     29042    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     23631    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     23607    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     35079    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     107101   13192/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     28101    4231/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     13235    1962/udisksd         
+unix  3      [ ]         STREAM     CONNECTED     33626    5709/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     37230    5341/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     35260    5224/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     30955    4231/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     25475    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     18730    2550/cups-proxyd     
+unix  3      [ ]         DGRAM      CONNECTED     2878     1/init               
+unix  3      [ ]         STREAM     CONNECTED     31547    5332/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     27147    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     94828    4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     29610    4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     28058    4269/ksmserver       
+unix  3      [ ]         STREAM     CONNECTED     37360    5567/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     128093   14791/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     33178    5190/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     13280    1929/bluetoothd      
+unix  3      [ ]         STREAM     CONNECTED     107651   4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     26561    4506/kdeconnectd     
+unix  3      [ ]         STREAM     CONNECTED     33833    4531/kaccess         
+unix  3      [ ]         STREAM     CONNECTED     30855    4306/kglobalaccel5   
+unix  3      [ ]         STREAM     CONNECTED     30773    4231/dbus-daemon     
+unix  2      [ ]         DGRAM                    27921    4039/wireplumber     
+unix  3      [ ]         STREAM     CONNECTED     23629    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     20954    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     59924    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     17047    1/init               /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM      CONNECTED     21079    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     129233   15093/sudo           
+unix  3      [ ]         STREAM     CONNECTED     31130    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     29881    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     22585    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     56398    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     38895    6866/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34667    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     26581    4512/python3         
+unix  3      [ ]         STREAM     CONNECTED     27969    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     23626    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     23600    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     37176    4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     35089    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     27986    4192/xdg-permission  
+unix  3      [ ]         STREAM     CONNECTED     107162   4798/msedge --type=  
+unix  3      [ ]         DGRAM      CONNECTED     20870    1/init               
+unix  3      [ ]         STREAM     CONNECTED     13217    1959/systemd-logind  
+unix  3      [ ]         STREAM     CONNECTED     35259    4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     33193    5190/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     31087    4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     33860    4231/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     25410    4271/kded5           
+unix  3      [ ]         STREAM     CONNECTED     34659    5224/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     30940    4506/kdeconnectd     
+unix  3      [ ]         STREAM     CONNECTED     30819    4068/kwalletd5       
+unix  3      [ ]         STREAM     CONNECTED     23632    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     14838    1961/thermald        
+unix  3      [ ]         STREAM     CONNECTED     37178    4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     37437    5709/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     27146    4231/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     111027   13257/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     33179    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     31088    4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     31844    4362/polkit-kde-aut  
+unix  3      [ ]         STREAM     CONNECTED     16175    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     107678   4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     91913    4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     38894    6866/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34668    5567/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     26456    4439/kscreen_backen  
+unix  3      [ ]         STREAM     CONNECTED     30856    4269/ksmserver       
+unix  3      [ ]         STREAM     CONNECTED     29091    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     27027    4037/pipewire        /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     23644    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     37107    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     39237    4271/kded5           /run/user/1000/kded5HwFNDG.1.kioworker.socket
+unix  3      [ ]         STREAM     CONNECTED     28082    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     112704   4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     24564    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     25407    4271/kded5           
+unix  3      [ ]         STREAM     CONNECTED     18731    2550/cups-proxyd     
+unix  3      [ ]         STREAM     CONNECTED     107682   4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34658    5484/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     33859    4539/DiscoverNotifi  
+unix  3      [ ]         STREAM     CONNECTED     23649    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     23611    3089/master          
+unix  2      [ ]         DGRAM      CONNECTED     129228   15092/sudo           
+unix  3      [ ]         STREAM     CONNECTED     107114   5224/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     29099    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     113381   13772/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     30995    4512/python3         
+unix  3      [ ]         STREAM     CONNECTED     27917    4039/wireplumber     
+unix  3      [ ]         STREAM     CONNECTED     114947   13263/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     29529    4231/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     32917    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     23650    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     19807    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     114281   13717/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     35154    5224/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     27974    4181/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     92699    10829/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     13122    1925/accounts-daemo  
+unix  3      [ ]         STREAM     CONNECTED     37216    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     33001    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     31115    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     25584    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     31872    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     25411    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     27904    4041/pipewire-pulse  
+unix  3      [ ]         STREAM     CONNECTED     25263    4043/dbus-daemon     
+unix  3      [ ]         STREAM     CONNECTED     18659    2433/sddm            
+unix  3      [ ]         STREAM     CONNECTED     114946   4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     102372   12651/msedge --type  
+unix  3      [ ]         SEQPACKET  CONNECTED     26599    4751/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     23640    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     15128    2433/sddm            
+unix  3      [ ]         STREAM     CONNECTED     118240   4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     37175    5199/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     27479    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     28112    4363/org_kde_powerd  
+unix  3      [ ]         STREAM     CONNECTED     92698    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     31086    4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     27903    4038/pipewire        
+unix  3      [ ]         STREAM     CONNECTED     114945   13263/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     102371   4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     26624    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     33990    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     27264    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     27136    4306/kglobalaccel5   
+unix  3      [ ]         STREAM     CONNECTED     26221    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     23634    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     23616    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     124724   14791/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     35090    5199/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     13202    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     107161   13213/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     37415    5683/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     24499    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     31083    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     26302    4192/xdg-permission  
+unix  3      [ ]         STREAM     CONNECTED     15265    2710/colord          
+unix  3      [ ]         STREAM     CONNECTED     114948   4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     42080    5670/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34703    4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34002    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     26582    4512/python3         
+unix  3      [ ]         STREAM     CONNECTED     29891    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     30774    4231/dbus-daemon     
+unix  3      [ ]         DGRAM      CONNECTED     26145    4023/systemd         
+unix  3      [ ]         STREAM     CONNECTED     124779   6866/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     94827    10829/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     37108    5224/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     28102    4361/gmenudbusmenup  
+unix  2      [ ]         DGRAM      CONNECTED     14798    1930/cron            
+unix  3      [ ]         STREAM     CONNECTED     107151   13213/msedge --type  
+unix  2      [ ]         DGRAM      CONNECTED     27877    4023/systemd         
+unix  3      [ ]         STREAM     CONNECTED     31131    4897/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     26422    4271/kded5           
+unix  3      [ ]         STREAM     CONNECTED     25414    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     25356    4188/xdg-document-p  
+unix  3      [ ]         STREAM     CONNECTED     13141    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     31998    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     26459    4439/kscreen_backen  
+unix  3      [ ]         STREAM     CONNECTED     30894    4362/polkit-kde-aut  
+unix  3      [ ]         STREAM     CONNECTED     29040    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     23623    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     37093    5184/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     28100    4332/kactivitymanag  
+unix  3      [ ]         STREAM     CONNECTED     107127   13213/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     112705   13248/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     32037    4539/DiscoverNotifi  
+unix  3      [ ]         STREAM     CONNECTED     25355    4199/fusermount3     
+unix  3      [ ]         SEQPACKET  CONNECTED     33982    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     26444    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     26423    4271/kded5           
+unix  3      [ ]         STREAM     CONNECTED     25471    4361/gmenudbusmenup  
+unix  3      [ ]         STREAM     CONNECTED     30818    4271/kded5           
+unix  3      [ ]         STREAM     CONNECTED     23652    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     14796    1930/cron            
+unix  3      [ ]         STREAM     CONNECTED     26414    4365/xembedsniproxy  
+unix  3      [ ]         STREAM     CONNECTED     27128    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         DGRAM      CONNECTED     20871    1/init               
+unix  3      [ ]         STREAM     CONNECTED     37217    5341/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     33993    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     31976    4539/DiscoverNotifi  
+unix  3      [ ]         STREAM     CONNECTED     25370    4181/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     11217    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         DGRAM      CONNECTED     2879     1/init               
+unix  3      [ ]         STREAM     CONNECTED     107684   4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     33832    4506/kdeconnectd     
+unix  3      [ ]         STREAM     CONNECTED     30871    4363/org_kde_powerd  
+unix  3      [ ]         DGRAM      CONNECTED     26144    4023/systemd         
+unix  3      [ ]         STREAM     CONNECTED     23617    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     11219    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     124722   14791/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     26419    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     113382   4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     33180    5199/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     31121    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     32156    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     29254    4231/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     31863    4431/obexd           
+unix  3      [ ]         STREAM     CONNECTED     27139    4306/kglobalaccel5   
+unix  3      [ ]         STREAM     CONNECTED     18784    2619/rtkit-daemon    
+unix  3      [ ]         STREAM     CONNECTED     13546    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     107223   13257/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     22940    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     23653    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     23613    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     28080    4362/polkit-kde-aut  
+unix  3      [ ]         STREAM     CONNECTED     107160   4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     106102   4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     31089    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     32964    4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     25352    4181/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     21019    2717/cups-browsed    
+unix  3      [ ]         STREAM     CONNECTED     107652   12747/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     33995    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     30952    4231/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     26463    4439/kscreen_backen  
+unix  3      [ ]         STREAM     CONNECTED     30850    4272/kwin_x11        
+unix  3      [ ]         STREAM     CONNECTED     26207    4037/pipewire        
+unix  3      [ ]         STREAM     CONNECTED     23614    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     19848    1/init               /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM                    15136    2401/winbindd        /run/samba/msg.sock/2401
+unix  3      [ ]         STREAM     CONNECTED     37022    4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     27149    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     107100   4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     37416    4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     30870    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     32961    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     34702    5567/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34819    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     34003    4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     30860    4271/kded5           
+unix  3      [ ]         STREAM     CONNECTED     30816    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     30813    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     23643    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     23596    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     28111    4363/org_kde_powerd  
+unix  3      [ ]         STREAM     CONNECTED     37359    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     27859    1/init               /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM      CONNECTED     15138    2458/winbindd: doma  /run/samba/msg.sock/2458
+unix  3      [ ]         STREAM     CONNECTED     111029   13257/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     35261    4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     27212    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     25445    4332/kactivitymanag  
+unix  3      [ ]         STREAM     CONNECTED     26374    4068/kwalletd5       
+unix  3      [ ]         STREAM     CONNECTED     15925    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     36406    5314/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     32972    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     25474    4361/gmenudbusmenup  
+unix  3      [ ]         STREAM     CONNECTED     23619    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     17069    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     37436    4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     26301    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     33627    5224/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     31090    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     31867    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     27210    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     25446    4332/kactivitymanag  
+unix  3      [ ]         STREAM     CONNECTED     27897    4038/pipewire        
+unix  3      [ ]         STREAM     CONNECTED     109411   4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     107680   4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     33994    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     23641    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     23599    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     19806    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     124778   14791/msedge --type  
+unix  2      [ ]         STREAM     CONNECTED     88739    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     60688    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     29573    4783/msedge --type=  
+unix  2      [ ]         DGRAM                    14886    2059/NetworkManager  
+unix  3      [ ]         STREAM     CONNECTED     37414    4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     26418    4269/ksmserver       @/tmp/.ICE-unix/4269
+unix  3      [ ]         STREAM     CONNECTED     36458    5314/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     29357    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     29349    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     30873    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     91915    4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     34704    5567/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     27116    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     23604    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     14295    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     114144   13634/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     27922    4039/wireplumber     
+unix  3      [ ]         STREAM     CONNECTED     28985    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     36461    4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     31116    4871/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     27211    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     26399    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     25435    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     109417   13737/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     107222   4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     25477    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     23638    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     14825    1928/avahi-daemon:   
+unix  3      [ ]         STREAM     CONNECTED     114280   13213/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     94825    10829/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     35080    5190/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     29607    4897/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     28065    4328/plasmashell     
+unix  3      [ ]         STREAM     CONNECTED     12158    1/init               /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM      CONNECTED     27869    4024/(sd-pam)        
+unix  3      [ ]         STREAM     CONNECTED     111028   4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     56397    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     36460    5314/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     33177    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     26217    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     109410   13737/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     57753    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     25583    4531/kaccess         
+unix  3      [ ]         STREAM     CONNECTED     30890    4362/polkit-kde-aut  
+unix  3      [ ]         STREAM     CONNECTED     29043    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     26218    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     23647    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     16348    2717/cups-browsed    
+unix  3      [ ]         STREAM     CONNECTED     114143   4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     29608    4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     58811    7770/dolphin         
+unix  3      [ ]         STREAM     CONNECTED     37413    5683/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     28104    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     27263    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     27141    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     25270    4039/wireplumber     
+unix  3      [ ]         STREAM     CONNECTED     18553    2269/sh              
+unix  3      [ ]         STREAM     CONNECTED     107677   12738/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     25514    4181/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     30851    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     23628    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     23603    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     14393    1577/systemd-timesy  
+unix  3      [ ]         STREAM     CONNECTED     118241   14182/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     11214    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     25486    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     105451   13192/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     37233    4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     33194    4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     32013    4531/kaccess         
+unix  3      [ ]         STREAM     CONNECTED     29256    4037/pipewire        /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     24641    3173/fwupd           
+unix  3      [ ]         STREAM     CONNECTED     11215    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     36405    4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     16157    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     37021    4950/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     27478    4836/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     28107    4361/gmenudbusmenup  
+unix  3      [ ]         STREAM     CONNECTED     17482    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     105450   4734/msedge          
+unix  3      [ ]         STREAM     CONNECTED     106103   12738/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     27410    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     27176    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     25443    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     18443    2037/rsyslogd        
+unix  3      [ ]         STREAM     CONNECTED     109408   13737/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     107683   12747/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     29461    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         SEQPACKET  CONNECTED     26597    4750/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     28063    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     23625    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     94609    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     37177    5199/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     26128    4023/systemd         
+unix  3      [ ]         STREAM     CONNECTED     107150   4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     24416    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     32970    4788/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     27258    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     29259    4231/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     109418   6866/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     91914    11081/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     34000    4783/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     26447    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     27089    1931/@dbus-daemon    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     23635    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     23620    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     15257    2709/dbus            
+unix  3      [ ]         STREAM     CONNECTED     27480    4897/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     25452    4043/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     13246    1963/virtlockd       
+unix  3      [ ]         STREAM     CONNECTED     27409    2454/Xorg            @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     26417    4365/xembedsniproxy  
+unix  3      [ ]         STREAM     CONNECTED     25264    4043/dbus-daemon     
+unix  3      [ ]         STREAM     CONNECTED     91881    11081/msedge --type  
+unix  3      [ ]         STREAM     CONNECTED     26541    4529/agent           
+unix  3      [ ]         STREAM     CONNECTED     30872    4362/polkit-kde-aut  
+unix  3      [ ]         STREAM     CONNECTED     23646    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     23610    3089/master          
+unix  3      [ ]         STREAM     CONNECTED     124725   4798/msedge --type=  
+unix  3      [ ]         STREAM     CONNECTED     35716    4271/kded5           
+unix  3      [ ]         STREAM     CONNECTED     28105    4361/gmenudbusmenup  
+unix  3      [ ]         STREAM     CONNECTED     26397    4328/plasmashell     
+unix  3      [ ]         SEQPACKET  CONNECTED     27377    4742/msedge_crashpa  @3f599
+unix  3      [ ]         STREAM     CONNECTED     13102    1577/systemd-timesy  @9ec6c107ce07595b/bus/systemd-timesyn/bus-api-timesync
+unix  3      [ ]         STREAM     CONNECTED     14864    1959/systemd-logind  @406d8bd10f10fc4d/bus/systemd-logind/system
+unix  3      [ ]         SEQPACKET  CONNECTED     32059    4742/msedge_crashpa  @c7a1b
+unix  3      [ ]         SEQPACKET  CONNECTED     32060    4744/msedge_crashpa  @2b68e
+unix  3      [ ]         STREAM     CONNECTED     30723    4169/fcitx5          @d1f1f120229c561b/bus/fcitx5/
+unix  3      [ ]         STREAM     CONNECTED     30722    4169/fcitx5          @ad13b2e08c917f23/bus/fcitx5/
+unix  3      [ ]         SEQPACKET  CONNECTED     27376    4734/msedge          @aae13
+unix  3      [ ]         STREAM     CONNECTED     26147    4023/systemd         @b0b22ae612a4f1cc/bus/systemd/bus-system
+unix  3      [ ]         STREAM     CONNECTED     10239    1523/systemd-resolv  @6cf6155b35a3043d/bus/systemd-resolve/bus-api-resolve
+unix  3      [ ]         STREAM     CONNECTED     30724    4169/fcitx5          @b55bdb68266ad686/bus/fcitx5/
+unix  3      [ ]         SEQPACKET  CONNECTED     26596    4734/msedge          @c3048
+unix  3      [ ]         STREAM     CONNECTED     15885    1960/systemd-machin  @361fda01be84cef2/bus/systemd-machine/system
+unix  3      [ ]         STREAM     CONNECTED     15911    1/init               @781120f132488316/bus/systemd/bus-api-system
+unix  3      [ ]         STREAM     CONNECTED     30721    4169/fcitx5          @db2e2d4673341063/bus/fcitx5/user
+unix  3      [ ]         STREAM     CONNECTED     24404    4023/systemd         @174bdbf357deb69/bus/systemd/bus-api-user
+unix  3      [ ]         SEQPACKET  CONNECTED     26598    4734/msedge          @65242
+unix  3      [ ]         STREAM     CONNECTED     31842    4169/fcitx5          @fa8fbf1a47c288a9/bus/fcitx5/
